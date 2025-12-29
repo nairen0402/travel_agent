@@ -1,0 +1,829 @@
+---
+url: https://www.japan-guide.com/e/e2011_when.html
+title: A Beginner's Guide to Cherry Blossom Viewing\: When do the cherry blossoms bloom?
+description: When do the cherry blossoms bloom.
+keywords: cherry, blossom, sakura, japan, hanami, ohanami
+content_type: city_guide
+word_count: 1783
+char_count: 12846
+crawled_at: 2025-12-22 14:04:15
+---
+
+### When do they bloom?
+
+The largest factor in determining the timing of the [cherry blossoms](e2011.html) is geographical location. Generally, the milder the climate, the earlier the blossoms open.
+
+Tokyo
+Late Mar - Early Apr
+
+Kanazawa
+Early - Mid Apr
+
+Matsumoto
+Mid Apr
+
+Kyoto
+Early Apr
+
+Osaka
+Early Apr
+
+Yoshino
+Early - Mid Apr
+
+Fukuoka
+Late Mar - Early Apr
+
+Kumamoto
+Late Mar - Early Apr
+
+Hiroshima
+Early Apr
+
+Matsuyama
+Early Apr
+
+Fukushima
+Mid Apr
+
+Sendai
+Mid Apr
+
+Kakunodate
+Late Apr - Early May
+
+Hirosaki
+Late Apr - Early May
+
+Hakodate
+Early May
+
+Sapporo
+Early May
+
+Late Mar. - Early Apr.
+
+Early Apr.
+
+Early - Mid Apr.
+
+Mid Apr.
+
+Late Apr. - Early May
+
+Early - Late May
+
+© 2025 japan-guide.com
+
+On Japan's southern, subtropical islands of [Okinawa](/list/e1247.html), cherry blossoms open as early as January, while on the northern island of [Hokkaido](/list/e1101.html), they bloom as late as May. In most major cities in between, including [Tokyo](e2164.html), [Kyoto](e2158.html) and [Osaka](e2157.html), the cherry blossom season typically takes place around late March or early April.
+
+Furthermore, the timing of the blossoms differs from year to year depending on the weather. If the weather during the weeks preceding the [cherry blossom](e2011.html) season is mild, blossoms will open early. If it is cold, blossoms will open later. From year to year, the start of the blooming season typically varies by plus/minus one week, but larger deviations are also possible.
+
+Blossoms are opening
+
+### How long do they bloom?
+
+The [cherry blossom](e2011.html) season is relatively short. Full bloom (mankai) is usually reached within about one week after the opening of the first blossoms (kaika). Another week later, the blooming peak is over and the blossoms are falling from the trees. Strong wind and rain can cut the blooming season even shorter.
+
+Full bloom
+
+### Cherry blossom forecasts
+
+Every year, weather services and the media, including [japan-guide.com](/sakura/), closely follow the so called "cherry blossom front" as it slowly moves northward. Note that the front generally indicates the opening of the first blossoms (kaika) rather than the arrival of full bloom (mankai).
+
+Of course, not every tree in a city opens on the same day, as trees in shadowy places, for example, can bloom several days later than trees in sunny places. For this reason, a representative sample tree is selected to define the date of kaika (the opening of the first blossoms) for a whole city. In Tokyo, the sample tree is located at [Yasukuni Shrine](e2321.html).
+
+Hanafubuki: a blizzard of falling petals
+
+### Average blooming dates
+
+The table below lists the average dates on which cherry trees open their first blossoms and reach full bloom for selected cities. Remember that the timings can vary a lot from year to year.
+
+|  |  |  |
+| --- | --- | --- |
+| **City** | **Average Opening** | **Average Full Bloom** |
+| [Sapporo](e5316.html) | May 1 | May 6 |
+| [Hakodate](e5350.html) | April 28 | May 2 |
+| [Sendai](e5150.html) | April 8 | April 13 |
+| [Tokyo](e3050.html) | March 24 | March 31 |
+| [Yokohama](e3207.html) | March 25 | April 1 |
+| [Nagoya](e3310.html) | March 24 | April 2 |
+| [Kanazawa](e2167.html) | April 3 | April 8 |
+| [Kyoto](e3951.html) | March 26 | April 4 |
+| [Osaka](e4018.html) | March 27 | April 4 |
+| [Nara](e4117.html) | March 28 | April 4 |
+| [Kobe](e2159.html) | March 27 | April 5 |
+| [Hiroshima](e3407.html) | March 25 | April 3 |
+| [Takamatsu](e5400.html) | March 27 | April 4 |
+| [Matsuyama](e5500.html) | March 24 | April 3 |
+| [Fukuoka](e4807.html) | March 22 | March 31 |
+| [Kumamoto](e4506.html) | March 22 | April 1 |
+| [Kagoshima](e4605.html) | March 26 | April 5 |
+
+Source: Japan Meteorological Agancy - dates refer to [Somei Yoshino](e2011_species.html) cherry trees.
+
+
+[## The Basics about Overtourism in Japan
+
+Travel News
+
+](/link.html?/e/e2011_when.html+report+topstory+255+338+0+/news/overtourism.html)
+
+[## Tokyo to Osaka, But Not the Usual Way
+
+Sponsored Story
+
+](/link.html?/e/e2011_when.html+report+jrkintetsu+1+11+0+/ad/jr-kintetsu-pearl-route/)
+
+[## Our 2025 Travel Highlights
+
+From Our Staff
+
+](/link.html?/e/e2011_when.html+report+topstory+300+391+0+/news/0061.html)
+
+[## Four spots not to miss on the Boso Peninsula
+
+Sponsored Story
+
+](/link.html?/e/e2011_when.html+report+chiba+5+15+0+/ad/boso-activities/)
+
+[## Ultimate Guide to Limited Express Trains
+
+Travel Guide
+
+](/link.html?/e/e2011_when.html+report+topstory+299+390+0+/e/e2016_limited_express.html)
+
+[## 2025 Autumn Color Reports
+
+Travel Report
+
+](/link.html?/e/e2011_when.html+report+topstory+298+389+0+/blog/koyo25/)
+
+[## 14 years after the tsunami
+
+Travel News
+
+](/link.html?/e/e2011_when.html+report+topstory+297+388+0+/blog/recovery/251028.html)
+
+[Cherry Blossoms](/e/e2011.html)
+
+* [2025 Cherry Blossom Forecast](/sakura/)
+* [Best timing to see the blossoms](/e/e2011_when.html)
+* [Best cherry blossom spots](/e/e2011_where.html)
+
++ [Best spots in Tokyo](/e/e3050.html)
++ [Best spots in Kyoto](/e/e3951.html)
++ [Best spots in Sapporo](/e/e5316.html)
++ [Best spots in Hakodate](/e/e5358.html)
++ [Best spots in Sendai](/e/e5159.html)
++ [Best spots in Fukushima](/e/e7727.html)
++ [Miharu Takizakura](/e/e7792.html)
++ [Best spots in Gunma](/e/e7427.html)
++ [Best spots in Yokohama](/e/e3207.html)
++ [Best spots in Kamakura](/e/e3116.html)
++ [Kawazu Cherry Blossom Festival](/e/e6314.html)
++ [Best spots around Mount Fuji](/e/e6920.html)
++ [Best spots in Takayama](/e/e5911.html)
++ [Best spots in Matsumoto](/e/e6055.html)
++ [Takato Castle Park](/e/e6065.html)
++ [Best spots in Nagoya](/e/e3310.html)
++ [Best spots in Osaka](/e/e4018.html)
++ [Best spots in Nara](/e/e4117.html)
++ [Mount Yoshinoyama](/e/e4152.html)
++ [Best spots in Okayama](/e/e5706.html)
++ [Best spots in Tottori](/e/e8106.html)
++ [Best spots in Hiroshima](/e/e3407.html)
++ [Best spots in Takamatsu](/e/e5414.html)
++ [Best spots in Matsuyama](/e/e5506.html)
++ [Best spots in Fukuoka](/e/e4807.html)
++ [Best spots in Nagasaki](/e/e4413.html)
++ [Best spots in Kumamoto](/e/e4506.html)
++ [Best spots in Kagoshima](/e/e4605.html)
+
+* [How to enjoy hanami](/e/e2011_how.html)
+* [Cherry tree varieties](/e/e2011_species.html)
+* Cherry blossom reports
+
++ [Spring 2025](/blog/sakura25/)
+
+- [04/28 - Sapporo](/blog/sakura25/250428_sapporo.html)
+- [04/27 - Hakodate](/blog/sakura25/250427_hakodate.html)
+- [04/26 - Hirosaki](/blog/sakura25/250426_hirosaki.html)
+- [04/23 - Kakunodate](/blog/sakura25/250423_kakunodate.html)
+- [04/22 - Hirosaki](/blog/sakura25/250422_hirosaki.html)
+- [04/21 - Kitakami](/blog/sakura25/250421_kitakami.html)
+- [04/17 - Aizu](/blog/sakura25/250417_aizu.html)
+- [04/16 - Matsushima](/blog/sakura25/250416_matsushima.html)
+- [04/14 - Fuji Five Lakes](/blog/sakura25/250414_fuji.html)
+- [04/11 - Tokyo](/blog/sakura25/250411_tokyo.html)
+- [04/10 - Yoshino](/blog/sakura25/250410_yoshino.html)
+- [04/10 - Fuji Five Lakes](/blog/sakura25/250410_fuji.html)
+- [04/10 -](/blog/sakura25/250410_sendai.html)
+- [04/09 - Fukushima](/blog/sakura25/250409_fukushima.html)
+- [04/09 - Kyoto](/blog/sakura25/250409_kyoto.html)
+- [04/08 - Himeji and Hikone](/blog/sakura25/250408_himeji.html)
+- [04/08 - Fukui](/blog/sakura25/250408_fukui.html)
+- [04/07 - Tokyo](/blog/sakura25/250407_tokyo.html)
+- [04/07 - Kanazawa](/blog/sakura25/250407_kanazawa.html)
+- [04/06 - Kyoto](/blog/sakura25/250406_kyoto.html)
+- [04/05 - Osaka](/blog/sakura25/250405_osaka.html)
+- [04/04 - Kyoto](/blog/sakura25/250404_kyoto.html)
+- [04/04 - Tokyo](/blog/sakura25/250404_tokyo.html)
+- [04/04 - Takamatsu](/blog/sakura25/250404_takamatsu.html)
+- [04/03 - Matsuyama](/blog/sakura25/250403_matsuyama.html)
+- [04/03 - Nara](/blog/sakura25/250403_nara.html)
+- [04/02 - Tokyo](/blog/sakura25/250402_tokyo.html)
+- [04/02 - Hiroshima](/blog/sakura25/250402_hiroshima.html)
+- [04/01 - Kyoto](/blog/sakura25/250401_kyoto.html)
+- [04/01 - Fukuoka](/blog/sakura25/250401_fukuoka.html)
+- [03/31 - Tokyo](/blog/sakura25/250331_tokyo.html)
+- [03/31 - Osaka](/blog/sakura25/250331_osaka.html)
+- [03/30 - Kyoto](/blog/sakura25/250330_kyoto.html)
+- [03/28 - Tokyo](/blog/sakura25/250328_tokyo.html)
+- [03/28 - Fukuoka](/blog/sakura25/250328_fukuoka.html)
+- [03/27 - Kumamoto](/blog/sakura25/250327_kumamoto.html)
+- [03/26 - Kyoto](/blog/sakura25/250326_kyoto.html)
+- [03/25 - Tokyo](/blog/sakura25/250325_tokyo.html)
+- [02/18 - Kawazu](/blog/sakura25/250218_kawazu.html)
+
++ [Spring 2024](/blog/sakura24/)
+
+- [04/24 - Sapporo](/blog/sakura24/240424_sapporo.html)
+- [04/23 - Hakodate](/blog/sakura24/240423_hakodate.html)
+- [04/22 - Hirosaki](/blog/sakura24/240422_hirosaki.html)
+- [04/18 - Hirosaki](/blog/sakura24/240418_hirosaki.html)
+- [04/17 - Kakunodate](/blog/sakura24/240417_kakunodate.html)
+- [04/16 - Aizu](/blog/sakura24/240416_aizu.html)
+- [04/16 - Mount Myogi](/blog/sakura24/240416_myogi.html)
+- [04/13 - Fuji Five Lakes](/blog/sakura24/240413_fuji.html)
+- [04/12 - Matsumoto](/blog/sakura24/240412_matsumoto.html)
+- [04/11 - Kyoto](/blog/sakura24/240411_kyoto.html)
+- [04/10 - Tokyo](/blog/sakura24/240410_tokyo.html)
+- [04/10 - Kobe](/blog/sakura24/240410_kobe.html)
+- [04/09 - Onomichi](/blog/sakura24/240409_onomichi.html)
+- [04/08 - Yoshino](/blog/sakura24/240408_yoshino.html)
+- [04/06 - Kyoto](/blog/sakura24/240406_kyoto.html)
+- [04/05 - Tokyo](/blog/sakura24/240405_tokyo.html)
+- [04/05 - Hokuriku](/blog/sakura24/240405_kanazawa.html)
+- [04/04 - Nagoya](/blog/sakura24/240404_nagoya.html)
+- [04/03 - Kyoto](/blog/sakura24/240403_kyoto.html)
+- [04/02 - Matsuyama](/blog/sakura24/240402_matsuyama.html)
+- [04/01 - Tokyo](/blog/sakura24/240401_tokyo.html)
+- [03/31 - Kyoto](/blog/sakura24/240331_kyoto.html)
+- [03/30 - Osaka](/blog/sakura24/240330_osaka.html)
+- [03/29 - Kumamoto](/blog/sakura24/240329_kumamoto.html)
+- [03/28 - Fukuoka](/blog/sakura24/240328_fukuoka.html)
+- [03/27 - Kyoto](/blog/sakura24/240327_kyoto.html)
+- [03/27 - Hiroshima](/blog/sakura24/240327_hiroshima.html)
+- [03/25 - Tokyo](/blog/sakura24/240325_tokyo.html)
+- [03/20 - Kyoto](/blog/sakura24/240320_kyoto.html)
+- [03/18 - Tokyo](/blog/sakura24/240318_tokyo.html)
+
++ [Spring 2023](/blog/sakura23/)
+
+- [04/09 - Fuji Five Lakes](/blog/sakura23/230409_fuji.html)
+- [04/04 - Kyoto](/blog/sakura23/230404_kyoto.html)
+- [04/03 - Yoshino](/blog/sakura23/230403_yoshino.html)
+- [04/02 - Osaka](/blog/sakura23/230402_osaka.html)
+- [04/01 - Kanazawa](/blog/sakura23/230401_kanazawa.html)
+- [03/31 - Kyoto](/blog/sakura23/230331_kyoto.html)
+- [03/30 - Tokyo](/blog/sakura23/230330_tokyo.html)
+- [03/27 - Tokyo](/blog/sakura23/230327_tokyo.html)
+- [03/26 - Osaka](/blog/sakura23/230326_osaka.html)
+- [03/25 - Kyoto](/blog/sakura23/230325_kyoto.html)
+- [03/22 - Tokyo](/blog/sakura23/230322_tokyo.html)
+- [03/21 - Kyoto](/blog/sakura23/230321_kyoto.html)
+- [03/19 - Tokyo](/blog/sakura23/230319_tokyo.html)
+- [03/15 - Tokyo](/blog/sakura23/230315_tokyo.html)
+
++ [Spring 2020](/blog/sakura20/)
+
+- [03/24 - Kyoto](/blog/sakura20/200324_kyoto.html)
+- [03/23 - Tokyo](/blog/sakura20/200323_tokyo.html)
+- [03/19 - Tokyo](/blog/sakura20/200319_tokyo.html)
+- [03/16 - Tokyo](/blog/sakura20/200316_tokyo.html)
+
++ [Spring 2019](/blog/sakura19/)
+
+- [05/01 - Sapporo](/blog/sakura19/190501_sapporo.html)
+- [04/30 - Hakodate](/blog/sakura19/190430_hakodate.html)
+- [04/29 - Hirosaki](/blog/sakura19/190429_hirosaki.html)
+- [04/26 - Kakunodate](/blog/sakura19/190426_kakunodate.html)
+- [04/25 - Hirosaki](/blog/sakura19/190425_hirosaki.html)
+- [04/23 - Hirosaki](/blog/sakura19/190423_hirosaki.html)
+- [04/22 - Kitakami](/blog/sakura19/190422_kitakami.html)
+- [04/19 - Gunma](/blog/sakura19/190419_gunma.html)
+- [04/18 - Aizu](/blog/sakura19/190418_aizu.html)
+- [04/16 - Fuji Five Lakes](/blog/sakura19/190416_fuji.html)
+- [04/16 - Kyoto](/blog/sakura19/190416_kyoto.html)
+- [04/15 - Tokyo](/blog/sakura19/190415_tokyo.html)
+- [04/12 - Sendai](/blog/sakura19/190412_sendai.html)
+- [04/12 - Matsumoto](/blog/sakura19/190412_matsumoto.html)
+- [04/11 - Kyoto](/blog/sakura19/190411_kyoto.html)
+- [04/10 - Fukushima](/blog/sakura19/190410_fukushima.html)
+- [04/10 - Osaka](/blog/sakura19/190410_osaka.html)
+- [04/09 - Yoshino](/blog/sakura19/190409_yoshino.html)
+- [04/09 - Fuji Five Lakes](/blog/sakura19/190409_fuji.html)
+- [04/09 - Tokyo](/blog/sakura19/190409_tokyo.html)
+- [04/08 - Kyoto](/blog/sakura19/190408_kyoto.html)
+- [04/06 - Tokyo](/blog/sakura19/190406_tokyo.html)
+- [04/05 - Kyoto](/blog/sakura19/190405_kyoto.html)
+- [04/05 - Kanazawa](/blog/sakura19/190405_kanazawa.html)
+- [04/04 - Usuzumizakura](/blog/sakura19/190404_usuzumi.html)
+- [04/04 - Yoshino](/blog/sakura19/190404_yoshino.html)
+- [04/04 - Takamatsu](/blog/sakura19/190404_takamatsu.html)
+- [04/03 - Tokyo](/blog/sakura19/190403_tokyo.html)
+- [04/03 - Matsuyama](/blog/sakura19/190403_matsuyama.html)
+- [04/03 - Okayama](/blog/sakura19/190403_okayama.html)
+- [04/03 - Himeji](/blog/sakura19/190403_himeji.html)
+- [04/02 - Kyoto](/blog/sakura19/190402_kyoto.html)
+- [04/02 - Hiroshima](/blog/sakura19/190402_hiroshima.html)
+- [04/02 - Iwakuni](/blog/sakura19/190402_iwakuni.html)
+- [04/01 - Osaka](/blog/sakura19/190401_osaka.html)
+- [04/01 - Kamakura](/blog/sakura19/190401_kamakura.html)
+- [04/01 - Fukuoka](/blog/sakura19/190401_fukuoka.html)
+- [03/31 - Tokyo](/blog/sakura19/190331_tokyo.html)
+- [03/30 - Kyoto](/blog/sakura19/190330_kyoto.html)
+- [03/29 - Nagoya](/blog/sakura19/190329_nagoya.html)
+- [03/28 - Tokyo](/blog/sakura19/190328_tokyo.html)
+- [03/28 - Kyoto](/blog/sakura19/190328_kyoto.html)
+- [03/28 - Kumamoto](/blog/sakura19/190328_kumamoto.html)
+- [03/28 - Hiroshima](/blog/sakura19/190328_hiroshima.html)
+- [03/27 - Nagasaki](/blog/sakura19/190327_nagasaki.html)
+- [03/26 - Fukuoka](/blog/sakura19/190326_fukuoka.html)
+- [03/25 - Kyoto](/blog/sakura19/190325_kyoto.html)
+- [03/25 - Tokyo](/blog/sakura19/190325_tokyo.html)
+- [03/22 - Tokyo](/blog/sakura19/190322_tokyo.html)
+- [03/12 - Tokyo](/blog/sakura19/190312_tokyo.html)
+
++ [Spring 2018](/blog/sakura18/)
+
+- [04/27 - Hakodate](/blog/sakura18/180427_hakodate.html)
+- [04/26 - Hirosaki](/blog/sakura18/180426_hirosaki.html)
+- [04/25 - Kakunodate](/blog/sakura18/180425_kakunodate.html)
+- [04/20 - Hirosaki](/blog/sakura18/180420_hirosaki.html)
+- [04/19 - Kitakami](/blog/sakura18/180419_kitakami.html)
+- [04/18 - Hiraizumi](/blog/sakura18/180418_hiraizumi.html)
+- [04/12 - Fuji Five Lakes](/blog/sakura18/180412_fujigoko.html)
+- [04/11 - Shiroishi](/blog/sakura18/180411_shiroishi.html)
+- [04/10 - Aizu](/blog/sakura18/180410_aizu.html)
+- [04/10 - Sendai](/blog/sakura18/180410_sendai.html)
+- [04/09 - Takizakura](/blog/sakura18/180409_takizakura.html)
+- [04/07 - Matsumoto](/blog/sakura18/180407_matsumoto.html)
+- [04/06 - Fuji Five Lakes](/blog/sakura18/180406_fujigoko.html)
+- [04/06 - Yoshino](/blog/sakura18/180406_yoshino.html)
+- [04/05 - Fukushima](/blog/sakura18/180405_fukushima.html)
+- [04/05 - Kyoto](/blog/sakura18/180405_kyoto.html)
+- [04/05 - Takaoka](/blog/sakura18/180405_takaoka.html)
+- [04/04 - Kanazawa](/blog/sakura18/180404_kanazawa.html)
+- [04/03 - Kyoto](/blog/sakura18/180403_kyoto.html)
+- [04/02 - Yoshino](/blog/sakura18/180402_yoshino.html)
+- [04/02 - Tokyo](/blog/sakura18/180402_tokyo.html)
+- [04/01 - Kyoto](/blog/sakura18/180401_kyoto.html)
+- [03/31 - Nagoya](/blog/sakura18/180331_nagoya.html)
+- [03/30 - Kyoto](/blog/sakura18/180330_kyoto.html)
+- [03/29 - Tokyo](/blog/sakura18/180329_tokyo.html)
+- [03/29 - Osaka](/blog/sakura18/180329_osaka.html)
+- [03/28 - Hiroshima](/blog/sakura18/180328_hiroshima.html)
+- [03/27 - Kyoto](/blog/sakura18/180327_kyoto.html)
+- [03/27 - Fukuoka](/blog/sakura18/180327_fukuoka.html)
+- [03/26 - Tokyo](/blog/sakura18/180326_tokyo.html)
+- [03/26 - Kumamoto](/blog/sakura18/180326_kumamoto.html)
+- [03/26 - Minobu](/blog/sakura18/180326_minobu.html)
+- [03/25 - Kochi](/blog/sakura18/180325_kochi.html)
+- [03/24 - Osaka](/blog/sakura18/180324_osaka.html)
+- [03/23 - Kyoto](/blog/sakura18/180323_kyoto.html)
+- [03/23 - Tokyo](/blog/sakura18/180323_tokyo.html)
+- [03/19 - Tokyo](/blog/sakura18/180319_tokyo.html)
+
++ [Spring 2017](/blog/sakura17/)
+
+- [05/04 - Sapporo](/blog/sakura17/170504_sapporo.html)
+- [05/03 - Hakodate](/blog/sakura17/170503_hakodate.html)
+- [05/02 - Matsumae](/blog/sakura17/170502_matsumae.html)
+- [04/28 - Hirosaki](/blog/sakura17/170428_hirosaki.html)
+- [04/27 - Morioka](/blog/sakura17/170427_morioka.html)
+- [04/26 - Kakunodate](/blog/sakura17/170426_kakunodate.html)
+- [04/25 - Hirosaki](/blog/sakura17/170425_hirosaki.html)
+- [04/24 - Aizu](/blog/sakura17/170424_aizu.html)
+- [04/24 - Kitakami](/blog/sakura17/170424_kitakami.html)
+- [04/20 - Fuji Five Lakes](/blog/sakura17/170420_fuji.html)
+- [04/19 - Matsumoto](/blog/sakura17/170419_matsumoto.html)
+- [04/19 - Fukushima](/blog/sakura17/170419_fukushima.html)
+- [04/18 - Kyoto](/blog/sakura17/170418_kyoto.html)
+- [04/17 - Sendai](/blog/sakura17/170417_sendai.html)
+- [04/17 - Fuji Five Lakes](/blog/sakura17/170417_fuji.html)
+- [04/17 - Tokyo](/blog/sakura17/170417_tokyo.html)
+- [04/16 - Akagi](/blog/sakura17/170416_gunma.html)
+- [04/14 - Tomioka](/blog/sakura17/170414_tomioka.html)
+- [04/14 - Yoshino](/blog/sakura17/170414_yoshino.html)
+- [04/13 - Kyoto](/blog/sakura17/170413_kyoto.html)
+- [04/12 - Tokyo](/blog/sakura17/170412_tokyo.html)
+- [04/12 - Hiroshima](/blog/sakura17/170412_hiroshima.html)
+- [04/11 - Himeji](/blog/sakura17/170411_himeji.html)
+- [04/10 - Tokyo](/blog/sakura17/170410_tokyo.html)
+- [04/10 - Kyoto](/blog/sakura17/170410_kyoto.html)
+- [04/10 - Yoshino](/blog/sakura17/170410_yoshino.html)
+- [04/08 - Osaka](/blog/sakura17/170408_osaka.html)
+- [04/07 - Kyoto](/blog/sakura17/170407_kyoto.html)
+- [04/06 - Tokyo](/blog/sakura17/170406_tokyo.html)
+- [04/06 - Kamakura](/blog/sakura17/170406_kamakura.html)
+- [04/06 - Iwakuni](/blog/sakura17/170406_iwakuni.html)
+- [04/05 - Nagoya](/blog/sakura17/170405_nagoya.html)
+- [04/05 - Fukuoka](/blog/sakura17/170405_fukuoka.html)
+- [04/04 - Kyoto](/blog/sakura17/170404_kyoto.html)
+- [04/04 - Kumamoto](/blog/sakura17/170404_kumamoto.html)
+- [04/03 - Tokyo](/blog/sakura17/170403_tokyo.html)
+- [04/03 - Hiroshima](/blog/sakura17/170403_hiroshima.html)
+- [04/02 - Fukuoka](/blog/sakura17/170402_fukuoka.html)
+- [04/01 - Kyoto](/blog/sakura17/170401_kyoto.html)
+- [03/31 - Tokyo](/blog/sakura17/170331_tokyo.html)
+- [03/30 - Kyoto](/blog/sakura17/170330_kyoto.html)
+- [03/29 - Tokyo](/blog/sakura17/170329_tokyo.html)
+- [03/23 - Tokyo](/blog/sakura17/170323_tokyo.html)
+- [03/23 - Kumamoto](/blog/sakura17/170323_kumamoto.html)
+
++ [Spring 2016](/blog/sakura16/)
+
+- [05/02 - Sapporo](/blog/sakura16/160502_sapporo.html)
+- [05/01 - Noboribetsu](/blog/sakura16/160501_noboribetsu.html)
+- [04/30 - Matsumae](/blog/sakura16/160430_matsumae.html)
+- [04/29 - Hakodate](/blog/sakura16/160429_hakodate.html)
+- [04/28 - Hirosaki](/blog/sakura16/160428_hirosaki.html)
+- [04/22 - Kakunodate](/blog/sakura16/160422_kakunodate.html)
+- [04/21 - Hirosaki](/blog/sakura16/160421_hirosaki.html)
+- [04/19 - Kitakami](/blog/sakura16/160419_kitakami.html)
+- [04/19 - Fuji Five Lakes](/blog/sakura16/160419_fuji.html)
+- [04/15 - Fuji Five Lakes](/blog/sakura16/160415_fuji.html)
+- [04/15 - Aizu](/blog/sakura16/160415_aizu.html)
+- [04/14 - Kyoto](/blog/sakura16/160414_kyoto.html)
+- [04/13 - Hikone](/blog/sakura16/160413_hikone.html)
+- [04/12 - Tokyo](/blog/sakura16/160412_tokyo.html)
+- [04/12 - Yoshino](/blog/sakura16/160412_yoshino.html)
+- [04/11 - Sendai](/blog/sakura16/160411_sendai.html)
+- [04/11 - Kyoto](/blog/sakura16/160411_kyoto.html)
+- [04/08 - Tokyo](/blog/sakura16/160408_tokyo.html)
+- [04/08 - Kyoto](/blog/sakura16/160408_kyoto.html)
+- [04/08 - Matsumoto](/blog/sakura16/160408_matsumoto.html)
+- [04/08 - Odawara](/blog/sakura16/160408_odawara.html)
+- [04/07 - Nara](/blog/sakura16/160407_nara.html)
+- [04/06 - Kyoto](/blog/sakura16/160406_kyoto.html)
+- [04/06 - Kanazawa](/blog/sakura16/160406_kanazawa.html)
+- [04/05 - Yoshino](/blog/sakura16/160405_yoshino.html)
+- [04/05 - Fukushima](/blog/sakura16/160405_fukushima.html)
+- [04/05 - Osaka](/blog/sakura16/160405_osaka.html)
+- [04/05 - Kamakura](/blog/sakura16/160405_kamakura.html)
+- [04/04 - Kyoto](/blog/sakura16/160404_kyoto.html)
+- [04/04 - Tokyo](/blog/sakura16/160404_tokyo.html)
+- [04/01 - Tokyo](/blog/sakura16/160401_tokyo.html)
+- [04/01 - Kyoto](/blog/sakura16/160401_kyoto.html)
+- [04/01 - Okayama](/blog/sakura16/160401_okayama.html)
+- [03/31 - Hiroshima](/blog/sakura16/160331_hiroshima.html)
+- [03/31 - Himeji](/blog/sakura16/160331_himeji.html)
+- [03/31 - Onomichi](/blog/sakura16/160331_onomichi.html)
+- [03/30 - Osaka](/blog/sakura16/160330_osaka.html)
+- [03/30 - Miyajima](/blog/sakura16/160330_miyajima.html)
+- [03/30 - Iwakuni](/blog/sakura16/160330_iwakuni.html)
+- [03/29 - Tokyo](/blog/sakura16/160329_tokyo.html)
+- [03/29 - Kyoto](/blog/sakura16/160329_kyoto.html)
+- [03/29 - Kumamoto](/blog/sakura16/160329_kumamoto.html)
+- [03/28 - Nagoya](/blog/sakura16/160328_nagoya.html)
+- [03/28 - Fukuoka](/blog/sakura16/160328_fukuoka.html)
+- [03/27 - Tokyo](/blog/sakura16/160327_tokyo.html)
+- [03/25 - Kyoto](/blog/sakura16/160325_kyoto.html)
+- [03/24 - Tokyo](/blog/sakura16/160324_tokyo.html)
+- [03/22 - Fukuoka](/blog/sakura16/160322_fukuoka.html)
+- [03/20 - Tokyo](/blog/sakura16/160320_tokyo.html)
+
++ [Spring 2015](/blog/sakura15/)
+
+- [04/30 - Sapporo](/blog/sakura15/150430_sapporo.html)
+- [04/29 - Hakodate](/blog/sakura15/150429_hakodate.html)
+- [04/23 - Kakunodate](/blog/sakura15/150423_kakunodate.html)
+- [04/22 - Hirosaki](/blog/sakura15/150422_hirosaki.html)
+- [04/21 - Kitakami](/blog/sakura15/150421_kitakami.html)
+- [04/16 - Sendai](/blog/sakura15/150416_sendai.html)
+- [04/16 - Fujigoko](/blog/sakura15/150416_fuji.html)
+- [04/15 - Kyoto](/blog/sakura15/150415_kyoto.html)
+- [04/14 - Yoshino](/blog/sakura15/150414_yoshino.html)
+- [04/13 - Takizakura](/blog/sakura15/150413_miharu.html)
+- [04/10 - Himeji](/blog/sakura15/150410_himeji.html)
+- [04/10 - Takada](/blog/sakura15/150410_takada.html)
+- [04/09 - Tokyo](/blog/sakura15/150409_tokyo.html)
+- [04/09 - Kyoto](/blog/sakura15/150409_kyoto.html)
+- [04/08 - Fukushima](/blog/sakura15/150408_fukushima.html)
+- [04/08 - Matsumoto](/blog/sakura15/150408_matsumoto.html)
+- [04/07 - Yoshino](/blog/sakura15/150407_yoshino.html)
+- [04/06 - Tokyo](/blog/sakura15/150406_tokyo.html)
+- [04/06 - Kyoto](/blog/sakura15/150406_kyoto.html)
+- [04/05 - Okayama](/blog/sakura15/150405_okayama.html)
+- [04/04 - Hiroshima](/blog/sakura15/150404_hiroshima.html)
+- [04/03 - Kyoto](/blog/sakura15/150403_kyoto.html)
+- [04/03 - Nagoya](/blog/sakura15/150403_nagoya.html)
+- [04/02 - Tokyo](/blog/sakura15/150402_tokyo.html)
+- [04/02 - Nara](/blog/sakura15/150402_nara.html)
+- [04/01 - Osaka](/blog/sakura15/150401_osaka.html)
+- [04/01 - Kumagaya](/blog/sakura15/150401_kumagaya.html)
+- [03/31 - Kyoto](/blog/sakura15/150331_kyoto.html)
+- [03/30 - Tokyo](/blog/sakura15/150330_tokyo.html)
+- [03/27 - Fukuoka](/blog/sakura15/150327_fukuoka.html)
+- [03/26 - Kumamoto](/blog/sakura15/150326_kumamoto.html)
+- [03/25 - Tokyo](/blog/sakura15/150325_tokyo.html)
+
++ [Spring 2014](/blog/sakura14/)
+
+- [05/09 - Hakodate](/blog/sakura14/140509_hakodate.html)
+- [05/08 - Matsumae](/blog/sakura14/140508_matsumae.html)
+- [05/01 - Hirosaki](/blog/sakura14/140501_hirosaki.html)
+- [04/30 - Kakunodate](/blog/sakura14/140430_kakunodate.html)
+- [04/24 - Kitakami](/blog/sakura14/140424_kitakami.html)
+- [04/23 - Fuji Five Lakes](/blog/sakura14/140423_fujigoko.html)
+- [04/23 - Morioka](/blog/sakura14/140423_morioka.html)
+- [04/22 - Aizu](/blog/sakura14/140422_aizu.html)
+- [04/19 - Matsushima](/blog/sakura14/140419_matsushima.html)
+- [04/17 - Takato](/blog/sakura14/140417_takato.html)
+- [04/16 - Sendai](/blog/sakura14/140416_sendai.html)
+- [04/16 - Matsumoto](/blog/sakura14/140416_matsumoto.html)
+- [04/15 - Fukushima](/blog/sakura14/140415_fukushima.html)
+- [04/15 - Fuji Five Lakes](/blog/sakura14/140415_fujigoko.html)
+- [04/15 - Kyoto](/blog/sakura14/140415_kyoto.html)
+- [04/14 - Yoshino](/blog/sakura14/140414_yoshino.html)
+- [04/13 - Osaka](/blog/sakura14/140413_osaka.html)
+- [04/12 - Kanazawa](/blog/sakura14/140412_kanazawa.html)
+- [04/11 - Kyoto](/blog/sakura14/140411_kyoto.html)
+- [04/10 - Yoshino](/blog/sakura14/140410_yoshino.html)
+- [04/10 - Tokyo](/blog/sakura14/140410_tokyo.html)
+- [04/09 - Gunma](/blog/sakura14/140409_gunma.html)
+- [04/09 - Hikone](/blog/sakura14/140409_hikone.html)
+- [04/08 - Kyoto](/blog/sakura14/140408_kyoto.html)
+- [04/07 - Tokyo](/blog/sakura14/140407_tokyo.html)
+- [04/06 - Kyoto](/blog/sakura14/140406_kyoto.html)
+- [04/05 - Hiroshima](/blog/sakura14/140405_hiroshima.html)
+- [04/05 - Matsuyama](/blog/sakura14/140405_matsuyama.html)
+- [04/04 - Tokyo](/blog/sakura14/140404_tokyo.html)
+- [04/04 - Kamakura](/blog/sakura14/140404_kamakura.html)
+- [04/04 - Osaka](/blog/sakura14/140404_osaka.html)
+- [04/03 - Kyoto](/blog/sakura14/140403_kyoto.html)
+- [04/03 - Fukuoka](/blog/sakura14/140403_fukuoka.html)
+- [04/03 - Uji](/blog/sakura14/140403_uji.html)
+- [04/02 - Tokyo](/blog/sakura14/140402_tokyo.html)
+- [04/02 - Nagoya](/blog/sakura14/140402_nagoya.html)
+- [04/02 - Kumamoto](/blog/sakura14/140402_kumamoto.html)
+- [04/01 - Kyoto](/blog/sakura14/140401_kyoto.html)
+- [03/31 - Tokyo](/blog/sakura14/140331_tokyo.html)
+- [03/29 - Kyoto](/blog/sakura14/140329_kyoto.html)
+- [03/28 - Kumamoto](/blog/sakura14/140328_kumamoto.html)
+- [03/27 - Fukuoka](/blog/sakura14/140327_fukuoka.html)
+- [03/26 - Tokyo](/blog/sakura14/140326_tokyo.html)
+- [03/25 - Kyoto](/blog/sakura14/140325_kyoto.html)
+
++ [Spring 2013](/blog/sakura13/)
+
+- [05/09 - Hakodate](/blog/sakura13/130509.html)
+- [05/08 - Matsumae](/blog/sakura13/130508.html)
+- [05/02 - Hirosaki](/blog/sakura13/130502_hirosaki.html)
+- [05/01 - Kakunodate](/blog/sakura13/130501_kakunodate.html)
+- [04/30 - Kitakami](/blog/sakura13/130430_kitakami.html)
+- [04/18 - Sendai](/blog/sakura13/130418_sendai.html)
+- [04/17 - Takayama](/blog/sakura13/130417_takayama.html)
+- [04/15 - Fukushima](/blog/sakura13/130415_fukushima.html)
+- [04/12 - Matsumoto](/blog/sakura13/130412_matsumoto.html)
+- [04/11 - Kyoto](/blog/sakura13/130411_kyoto.html)
+- [04/10 - Fuji Five Lakes](/blog/sakura13/130410_fuji.html)
+- [04/10 - Hakone](/blog/sakura13/130410_hakone.html)
+- [04/10 - Kanazawa](/blog/sakura13/130410_kanazawa.html)
+- [04/09 - Yoshino](/blog/sakura13/130409_yoshino.html)
+- [04/08 - Kyoto](/blog/sakura13/130408_kyoto.html)
+- [04/08 - Tokyo](/blog/sakura13/130408_tokyo.html)
+- [04/05 - Fuji Five Lakes](/blog/sakura13/130405_fuji.html)
+- [04/04 - Kyoto](/blog/sakura13/130404_kyoto.html)
+- [04/04 - Gunma](/blog/sakura13/130404_gunma.html)
+- [04/03 - Takamatsu](/blog/sakura13/130403_takamatsu.html)
+- [04/02 - Osaka](/blog/sakura13/130402_osaka.html)
+- [04/02 - Hiroshima](/blog/sakura13/130402_hiroshima.html)
+- [04/01 - Tokyo](/blog/sakura13/130401_tokyo.html)
+- [04/01 - Kyoto](/blog/sakura13/130401_kyoto.html)
+- [03/29 - Tokyo](/blog/sakura13/130329_tokyo.html)
+- [03/28 - Gunma](/blog/sakura13/130328_gunma.html)
+- [03/28 - Kyoto](/blog/sakura13/130328_kyoto.html)
+- [03/27 - Osaka](/blog/sakura13/130327_osaka.html)
+- [03/27 - Fukuoka](/blog/sakura13/130327_fukuoka.html)
+- [03/26 - Nagoya](/blog/sakura13/130326_nagoya.html)
+- [03/26 - Kamakura](/blog/sakura13/130326_kamakura.html)
+- [03/26 - Okayama](/blog/sakura13/130326_okayama.html)
+- [03/25 - Tokyo](/blog/sakura13/130325_tokyo.html)
+- [03/24 - Kyoto](/blog/sakura13/130324_kyoto.html)
+- [03/23 - Kagoshima](/blog/sakura13/130323_kagoshima.html)
+- [03/22 - Kumamoto](/blog/sakura13/130322_kumamoto.html)
+- [03/21 - Tokyo](/blog/sakura13/130321.html)
+- [03/21 - Fukuoka](/blog/sakura13/130321_fukuoka.html)
+- [03/20 - Kyoto](/blog/sakura13/130320_kyoto.html)
+- [03/17 - Tokyo](/blog/sakura13/130317.html)
+- [03/12 - Tokyo](/blog/sakura13/130312.html)
+- [02/28 - Kawazu](/blog/sakura13/130228.html)
+
++ [Spring 2012](/blog/sakura12/)
+
+- [05/09 - Sapporo](/blog/sakura12/120509_sapporo.html)
+- [05/08 - Hakodate](/blog/sakura12/120508_hakodate.html)
+- [05/07 - Hirosaki](/blog/sakura12/120507_hirosaki.html)
+- [04/30 - Hirosaki](/blog/sakura12/120430_hirosaki.html)
+- [04/29 - Kakunodate](/blog/sakura12/120429_kakunodate.html)
+- [04/28 - Takizakura](/blog/sakura12/120428_miharu.html)
+- [04/28 - Kitakami](/blog/sakura12/120428_kitakami.html)
+- [04/28 - Aizu](/blog/sakura12/120428_aizu.html)
+- [04/28 - Hiraizumi](/blog/sakura12/120428_hiraizumi.html)
+- [04/25 - Fuji Five Lakes](/blog/sakura12/120425_fujigoko.html)
+- [04/25 - Sendai](/blog/sakura12/120425_sendai.html)
+- [04/24 - Fukushima](/blog/sakura12/120424_fukushima.html)
+- [04/18 - Tokyo](/blog/sakura12/120418_tokyo.html)
+- [04/17 - Kyoto](/blog/sakura12/120417_kyoto.html)
+- [04/16 - Yoshino](/blog/sakura12/120416_yoshino.html)
+- [04/15 - Kanazawa](/blog/sakura12/120415_kanazawa.html)
+- [04/15 - Tottori](/blog/sakura12/120415_tottori.html)
+- [04/14 - Kyoto](/blog/sakura12/120414_kyoto.html)
+- [04/14 - Osaka](/blog/sakura12/120414_osaka.html)
+- [04/14 - Himeji](/blog/sakura12/120414_himeji.html)
+- [04/13 - Tokyo](/blog/sakura12/120413_tokyo.html)
+- [04/12 - Yokohama](/blog/sakura12/120412_yokohama.html)
+- [04/12 - Kamakura](/blog/sakura12/120412_kamakura.html)
+- [04/11 - Kyoto](/blog/sakura12/120411_kyoto.html)
+- [04/10 - Hiroshima](/blog/sakura12/120410_hiroshima.html)
+- [04/09 - Tokyo](/blog/sakura12/120409_tokyo.html)
+- [04/09 - Kyoto](/blog/sakura12/120409_kyoto.html)
+- [04/07 - Osaka](/blog/sakura12/120407_osaka.html)
+- [04/06 - Tokyo](/blog/sakura12/120406_tokyo.html)
+- [04/06 - Kyoto](/blog/sakura12/120406_kyoto.html)
+- [04/06 - Nagoya](/blog/sakura12/120406_nagoya.html)
+- [04/04 - Fukuoka](/blog/sakura12/120404_fukuoka.html)
+- [04/03 - Tokyo](/blog/sakura12/120403_tokyo.html)
+- [04/03 - Kumamoto](/blog/sakura12/120403_kumamoto.html)
+- [04/02 - Kagoshima](/blog/sakura12/120402_kagoshima.html)
+- [04/01 - Kyoto](/blog/sakura12/120401_kyoto.html)
+- [03/31 - Tokyo](/blog/sakura12/120331_tokyo.html)
+- [03/22 - Tokyo](/blog/sakura12/120322_tokyo.html)
+- [03/15 - Tokyo](/blog/sakura12/120315_tokyo.html)
+
++ [Spring 2011](/blog/sakura11/)
+
+- [05/09 - Sapporo](/blog/sakura11/110509_sapporo.html)
+- [05/06 - Hakodate](/blog/sakura11/110506_hakodate.html)
+- [05/02 - Kakunodate](/blog/sakura11/110502_kakunodate.html)
+- [05/01 - Hirosaki](/blog/sakura11/110501_hirosaki.html)
+- [04/29 - Kitakami](/blog/sakura11/110429_kitakami.html)
+- [04/22 - Aizu](/blog/sakura11/110422_aizu.html)
+- [04/21 - Sendai](/blog/sakura11/110421_sendai.html)
+- [04/20 - Fujigoko](/blog/sakura11/110420_fujigoko.html)
+- [04/19 - Tokyo](/blog/sakura11/110419_tokyo.html)
+- [04/16 - Kyoto](/blog/sakura11/110416_kyoto.html)
+- [04/15 - Osaka](/blog/sakura11/110415_osaka.html)
+- [04/14 - Tokyo](/blog/sakura11/110414_tokyo.html)
+- [04/14 - Kanazawa](/blog/sakura11/110414_kanazawa.html)
+- [04/13 - Yoshino](/blog/sakura11/110413_yoshino.html)
+- [04/12 - Kyoto](/blog/sakura11/110412_kyoto.html)
+- [04/12 - Okayama](/blog/sakura11/110412_okayama.html)
+- [04/11 - Tokyo](/blog/sakura11/110411_tokyo.html)
+- [04/11 - Takamatsu](/blog/sakura11/110411_takamatsu.html)
+- [04/10 - Osaka](/blog/sakura11/110410_osaka.html)
+- [04/10 - Matsuyama](/blog/sakura11/110410_matsuyama.html)
+- [04/09 - Kyoto](/blog/sakura11/110409_kyoto.html)
+- [04/08 - Tokyo](/blog/sakura11/110408_tokyo.html)
+- [04/08 - Yoshino](/blog/sakura11/110408_yoshino.html)
+- [04/07 - Hiroshima](/blog/sakura11/110407_hiroshima.html)
+- [04/07 - Iwakuni](/blog/sakura11/110407_iwakuni.html)
+- [04/07 - Nagoya](/blog/sakura11/110407_nagoya.html)
+- [04/06 - Kyoto](/blog/sakura11/110406_kyoto.html)
+- [04/05 - Tokyo](/blog/sakura11/110405_tokyo.html)
+- [04/04 - Kyoto](/blog/sakura11/110404_kyoto.html)
+- [04/03 - Fukuoka](/blog/sakura11/110403_fukuoka.html)
+- [04/02 - Tokyo](/blog/sakura11/110402_tokyo.html)
+- [04/01 - Kyoto](/blog/sakura11/110401_kyoto.html)
+- [04/01 - Kagoshima](/blog/sakura11/110401_kagoshima.html)
+- [03/31 - Kumamoto](/blog/sakura11/110331_kumamoto.html)
+- [03/31 - Fukuoka](/blog/sakura11/110331_fukuoka.html)
+- [03/30 - Tokyo](/blog/sakura11/110330_tokyo.html)
+- [03/30 - Kochi](/blog/sakura11/110330_kochi.html)
+- [03/29 - Kyoto](/blog/sakura11/110329_kyoto.html)
+- [03/28 - Himeji](/blog/sakura11/110328_himeji.html)
+- [03/27 - Tokyo](/blog/sakura11/110327_tokyo.html)
+
++ [Spring 2010](/blog/sakura10/)
+
+- [05/14 - Hakodate](/blog/sakura10/100514_hakodate.html)
+- [05/13 - Matsumae](/blog/sakura10/100513_matsumae.html)
+- [05/06 - Kakunodate](/blog/sakura10/100506_kakunodate.html)
+- [05/05 - Hirosaki](/blog/sakura10/100505_hirosaki.html)
+- [04/25 - Takizakura](/blog/sakura10/100425_takizakura.html)
+- [04/14 - Fujigoko](/blog/sakura10/100414_fujigoko.html)
+- [04/10 - Kyoto](/blog/sakura10/100410_kyoto.html)
+- [04/09 - Kanazawa](/blog/sakura10/100409_kanazawa.html)
+- [04/08 - Tokyo](/blog/sakura10/100408_tokyo.html)
+- [04/08 - Osaka](/blog/sakura10/100408_osaka.html)
+- [04/07 - Kyoto](/blog/sakura10/100407_kyoto.html)
+- [04/07 - Kamakura](/blog/sakura10/100407_kamakura.html)
+- [04/06 - Yoshino](/blog/sakura10/100406_yoshino.html)
+- [04/06 - Inuyama](/blog/sakura10/100406_inuyama.html)
+- [04/05 - Tokyo](/blog/sakura10/100405_tokyo.html)
+- [04/05 - Hikone](/blog/sakura10/100405_hikone.html)
+- [04/04 - Kyoto](/blog/sakura10/100404_kyoto.html)
+- [04/04 - Himeji](/blog/sakura10/100404_himeji.html)
+- [04/03 - Nara](/blog/sakura10/100403_nara.html)
+- [04/03 - Miyajima](/blog/sakura10/100403_miyajima.html)
+- [04/02 - Kyoto](/blog/sakura10/100402_kyoto.html)
+- [04/02 - Hiroshima](/blog/sakura10/100402_hiroshima.html)
+- [04/01 - Tokyo](/blog/sakura10/100401_tokyo.html)
+- [03/30 - Nagoya](/blog/sakura10/100330_nagoya.html)
+- [03/30 - Kyoto](/blog/sakura10/100330_kyoto.html)
+- [03/30 - Tokyo](/blog/sakura10/100330_tokyo.html)
+- [03/29 - Osaka](/blog/sakura10/100329_osaka.html)
+- [03/27 - Kyoto](/blog/sakura10/100327_kyoto.html)
+- [03/26 - Tokyo](/blog/sakura10/100326_tokyo.html)
+- [03/26 - Nara](/blog/sakura10/100326_nara.html)
+- [03/26 - Himeji](/blog/sakura10/100326_himeji.html)
+- [03/26 - Nagoya](/blog/sakura10/100326_nagoya.html)
+- [03/25 - Nagasaki](/blog/sakura10/100325_nagasaki.html)
+- [03/23 - Tokyo](/blog/sakura10/100323_tokyo.html)
+- [03/23 - Kyoto](/blog/sakura10/100323_kyoto.html)
+- [03/22 - Kumamoto](/blog/sakura10/100322_kumamoto.html)
+- [03/21 - Fukuoka](/blog/sakura10/100321_fukuoka.html)
+
++ [Spring 2009](/blog/sakura/)
+
+- [04/16 - Fuji Five Lakes Report](/blog/sakura/090416_fujigoko.html)
+- [04/15 - Osaka Report](/blog/sakura/090415_osaka.html)
+- [04/15 - Kyoto Report](/blog/sakura/090415_kyoto.html)
+- [04/14 - Himeji Report](/blog/sakura/090414_himeji.html)
+- [04/14 - Kobe Report](/blog/sakura/090414_kobe.html)
+- [04/13 - Nagano Report](/blog/sakura/090413_nagano.html)
+- [04/13 - Kanazawa Report](/blog/sakura/090413_kanazawa.html)
+- [04/12 - Kyoto Report](/blog/sakura/090412_kyoto.html)
+- [04/10 - Tokyo Report](/blog/sakura/090410_tokyo.html)
+- [04/09 - Nagoya Report](/blog/sakura/090409_nagoya.html)
+- [04/08 - Kamakura Report](/blog/sakura/090408_kamakura.html)
+- [04/08 - Yoshino Report](/blog/sakura/090408_yoshino.html)
+- [04/07 - Kyoto Report](/blog/sakura/090407_kyoto.html)
+- [04/06 - Tokyo Report](/blog/sakura/090406_tokyo.html)
+- [04/06 - Osaka Report](/blog/sakura/090406_osaka.html)
+- [04/05 - Yoshino Report](/blog/sakura/090405_yoshino.html)
+- [04/04 - Kyoto Report](/blog/sakura/090404_kyoto.html)
+- [04/03 - Nara Report](/blog/sakura/090403_nara.html)
+- [04/03 - Yokohama Report](/blog/sakura/090403_yokohama.html)
+- [04/02 - Tokyo Report](/blog/sakura/090402_tokyo.html)
+- [04/02 - Kobe Report](/blog/sakura/090402_kobe.html)
+- [04/01 - Kyoto Report](/blog/sakura/090401_kyoto.html)
+- [03/31 - Tokyo Report](/blog/sakura/090331_tokyo.html)
+- [03/31 - Himeji Report](/blog/sakura/090331_himeji.html)
+- [03/30 - Nagoya Report](/blog/sakura/090330_nagoya.html)
+- [03/30 - Kyoto Report](/blog/sakura/090330_kyoto.html)
+- [03/29 - Tokyo Report](/blog/sakura/090329_tokyo.html)
+- [03/29 - Hiroshima Report](/blog/sakura/090329_hiroshima.html)
+- [03/28 - Miyajima Report](/blog/sakura/090328_miyajima.html)
+- [03/27 - Kagoshima Report](/blog/sakura/090327_kagoshima.html)
+- [03/26 - Tokyo Report](/blog/sakura/090326_tokyo.html)
+- [03/26 - Nagasaki Report](/blog/sakura/090326_nagasaki.html)
+- [03/25 - Kyoto Report](/blog/sakura/090325_kyoto.html)
+- [03/25 - Kagoshima Report](/blog/sakura/090325_kagoshima.html)
+- [03/24 - Kumamoto Report](/blog/sakura/090324_kumamoto.html)
+- [03/23 - Fukuoka Report](/blog/sakura/090323_fukuoka.html)
+
+[## The Basics about Overtourism in Japan
+
+Travel News
+
+](/link.html?/e/e2011_when.html+report+topstory+255+338+0+/news/overtourism.html)
+
+[## Tokyo to Osaka, But Not the Usual Way
+
+Sponsored Story
+
+](/link.html?/e/e2011_when.html+report+jrkintetsu+1+11+0+/ad/jr-kintetsu-pearl-route/)
+
+[## Our 2025 Travel Highlights
+
+From Our Staff
+
+](/link.html?/e/e2011_when.html+report+topstory+300+391+0+/news/0061.html)
+
+[## Four spots not to miss on the Boso Peninsula
+
+Sponsored Story
+
+](/link.html?/e/e2011_when.html+report+chiba+5+15+0+/ad/boso-activities/)
+
+[## Ultimate Guide to Limited Express Trains
+
+Travel Guide
+
+](/link.html?/e/e2011_when.html+report+topstory+299+390+0+/e/e2016_limited_express.html)
+
+[## 2025 Autumn Color Reports
+
+Travel Report
+
+](/link.html?/e/e2011_when.html+report+topstory+298+389+0+/blog/koyo25/)
+
+[## 14 years after the tsunami
+
+Travel News
+
+](/link.html?/e/e2011_when.html+report+topstory+297+388+0+/blog/recovery/251028.html)

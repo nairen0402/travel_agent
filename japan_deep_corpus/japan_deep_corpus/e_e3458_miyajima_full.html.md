@@ -1,0 +1,261 @@
+---
+url: https://www.japan-guide.com/e/e3458_miyajima_full.html
+title: Miyajima Suggested Itinerary
+description: Suggested travel itinerary for a walking tour of Miyajima.
+keywords: miyajima, travel, suggested, itinerary, itineraries, walking, walk
+content_type: attraction
+word_count: 1987
+char_count: 13842
+crawled_at: 2025-12-22 14:03:18
+---
+
+duration
+
+6-8 hours
+
+budget
+
+Around 1500 yen
+
+pace
+
+Medium pace
+
+The following [model course](e2400.html) is an ideal way to experience [Miyajima](e3401.html) and works either as a day-trip from nearby [Hiroshima](e2160.html) or in combination with an overnight stay on the island. The course includes a steep 90-120 minute hike up to the summit of [Mount Misen](e3451.html), but this can be easily substituted for a ride on the ropeway.
+
+Start
+
+Start at the **ferry pier**
+
+**Walk**
+
+5 minutes
+
+Omotesando Arcade
+
+Lively shopping street
+20 minutes
+
+The busiest part of the island, here you will find shops selling souvenir crafts as well as local delicacies including grilled oysters and maple cakes.
+
+**Walk**
+
+5 minutes
+
+Itsukushima Shrine
+
+Famous shrine with floating torii gate
+20-40 minutes
+
+Appearing to float over an inlet at the base of the sacred Mount Misen, [Itsukushima Shrine](e3450.html) is one of the most visually striking and culturally important shrines in the country
+
+**Walk**
+
+10 minutes
+
+Daisho-in Temple
+
+Peaceful wooded temple at the foot of Mount Misen
+30 minutes
+
+Founded by Kobo Daishi, [Daishoin Temple](e3453.html) is one of the most important temples of Shingon Buddhism and features a number of buildings, statues and religious objects. Look out for a row of spinning metal cyclinders as you make your way up the temple steps - inscribed with Buddhist sutras, just turning them is said to provide the same benefit as reading them.
+
+**Walk**
+
+90-120 minutes
+
+Mount Misen
+
+The island's highest mountain
+about 30 minutes
+
+At 500 meters above sea level, [Mount Misen](e3451.html) is the highest peak on Miyajima. On clear days, it affords spectacular views of the [Seto Inland Sea](e5445.html) and as far as [Hiroshima City](e2160.html). There are also a number of Buddhist structures near the peak.
+
+**Walk**
+
+20 minutes
+
+**Ropeway**
+
+20 minutes
+
+Momijidani Park
+
+Attractive park at the foot of Mount Misen
+20 minutes
+
+Largely untouched since the Edo Period, Momijidani Park boasts around 700 maple trees and is particularly beautiful in the autumn when their foliage erupts into reds, oranges and yellows, typically around mid November.
+
+**Walk**
+
+5 minutes
+
+Senjokaku Pavilion
+
+Large wooden hall with five-story pagoda
+10 minutes
+
+Commissioned by the great warlord Toyotomi Hideyoshi and left unfinished after his death, the [Senjokaku Pavilion](e3452.html) ("thousand mat hall") was intended as a place for monks to copy sutras while surrounded by nature. Despite its simple exterior, the hall is famous for its views, the many paintings lining its roof beams and its iconic five storied pagoda.
+
+**Walk**
+
+15 minutes
+
+Finish
+
+
+Top rated on Miyajima
+
+[powered by](https://www.booking.com?aid=371183)
+
+Budget:
+
+AllLow  $Mid  $$High  $$$
+
+* + [](https://www.booking.com/hotel/jp/itsumoya.html?aid=371183)
+
+    [Itsumoya](https://www.booking.com/hotel/jp/itsumoya.html?aid=371183)
+
+    Budget-friendly
+
+    Located in Miyajima, 400 metres from Five Storey Pagoda and 600 metres from Itsukushima Shrine, Itsumoya offers a garden and air conditioning. The property features inner courtyard views and is 1.1 km from Daisho-in Temple and 600 metres from The great Torii. Free WiFi is available throughout the property and Tsutsumigaura Beach is 2.3 km away.
+    The spacious ryokan is equipped with 1 bedroom, a fully equipped kitchenette with a microwave and a toaster, and 1 bathroom with a bidet, slippers and a washing machine. The ryokan offers bed linen, towels and laundry service.
+    Popular points of interest near the ryokan include Momijidani Park, Museum of History and Folklore and Itsukushima Shrine Treasure Hall. Iwakuni Kintaikyo Airport is 28 km away.
+
+    
+
+    9.8Booking.com
+  + [](https://www.booking.com/hotel/jp/oyado-tsukiusagi.html?aid=371183)
+
+    [Oyado Tsukiusagi](https://www.booking.com/hotel/jp/oyado-tsukiusagi.html?aid=371183)
+
+    Budget-friendly
+
+    Oyado Tsukiusagi is set in Miyajima, 600 metres from Five Storey Pagoda, less than 1 km from Itsukushima Shrine, as well as a 15-minute walk from Daisho-in Temple. It is located 2.4 km from Tsutsumigaura Beach and provides luggage storage space. Museum of History and Folklore is 1.1 km from the ryokan and Shiraito Falls is 1.5 km away.
+    Featuring a private bathroom, units at the ryokan also offer free WiFi.
+    Popular points of interest near the ryokan include Momijidani Park, The great Torii and Itsukushima Shrine Treasure Hall. Iwakuni Kintaikyo Airport is 28 km away.
+
+    
+
+    9.7Booking.com
+  + [](https://www.booking.com/hotel/jp/yamaichi-bettkan.html?aid=371183)
+
+    [Yamaichi Bekkan](https://www.booking.com/hotel/jp/yamaichi-bettkan.html?aid=371183)
+
+    Budget-friendly
+
+    Featuring 2-star accommodation, Yamaichi Bekkan is set in Miyajima, 2.3 km from Tsutsumigaura Beach and 700 metres from Five Storey Pagoda. There is an on-site restaurant, plus free private parking and free WiFi are available. The ryokan features family rooms.
+    All units in the ryokan are fitted with a kettle. Complete with a private bathroom equipped with a bath and free toiletries, the units at the ryokan have a flat-screen TV and air conditioning, and certain rooms will provide you with a seating area. The units are equipped with heating facilities.
+    For visitors looking to embark on day trips to nearby landmarks, the ryokan offers a selection of packed lunches.
+    Popular points of interest near Yamaichi Bekkan include Itsukushima Shrine, Daisho-in Temple and The great Torii. Iwakuni Kintaikyo Airport is 28 km away.
+
+    
+
+    9.6Booking.com
+  + [](https://www.booking.com/hotel/jp/kurayado-iroha.html?aid=371183)
+
+    [ITSUKUSHIMA IROHA](https://www.booking.com/hotel/jp/kurayado-iroha.html?aid=371183)
+
+    Luxury
+
+    ITSUKUSHIMA IROHA is located in Miyajima’s Omotesando Avenue, a 5-minute walk from Itsukushima Shinto Shrine and Miyajima Pier. The hotel offers a restaurant and Japanese-style rooms with free wired internet access.
+    The stylish rooms at ITSUKUSHIMA IROHA feature tatami-mat flooring and private bathrooms. Amenities include a flat-screen TV and DVD player.
+    The hotel also provides business services.
+    The restaurant "MIYAJIMA YOHEI“ in Itsukushima Iroha offers meals that make full use of these ingredients.
+    One of the pleasures of traveling is to experience the local climate and enjoy the "food" nurtured there.
+    We make efforts every day to offer our guests a taste of the Seto Inland Sea and the flavors of Hiroshima.
+
+    
+
+    9.5Booking.com
+  + [](https://www.booking.com/hotel/jp/miyajima-guest-house-mikuniya.html?aid=371183)
+
+    [Miyajima Guest House Mikuniya](https://www.booking.com/hotel/jp/miyajima-guest-house-mikuniya.html?aid=371183)
+
+    Budget-friendly
+
+    Miyajima Guesthouse Mikuniya is a traditional Japanese-style guesthouse located on Miyajima (Itsukushima). It has a beautiful Japanese garden and a large living room, creating a peaceful and relaxing atmosphere. Our friendly mascot cat will welcome you!
+    We are in a great location ? only 5 minutes on foot from Itsukushima Shrine and Daisho-in Temple, and 15 minutes from the Mt. Misen trail entrance.
+    You can choose between tatami rooms with futons or shared dormitory rooms with wooden beds.
+    Dinner includes our special Mikuniya curry. We also offer private baths and rental bicycles. In the shared lounge, you can enjoy Japanese cultural experiences like calligraphy and origami, and meet people from all over the world.
+    We hope your stay in Miyajima will be full of unforgettable memories and wonderful encounters.
+
+    
+
+    9.3Booking.com
+  + [](https://www.booking.com/hotel/jp/jukeiso.html?aid=371183)
+
+    [Jukeiso](https://www.booking.com/hotel/jp/jukeiso.html?aid=371183)
+
+    Mid-range
+
+    Jukeiso features Japanese-style rooms overlooking the majestic entrance gate (Torii) of Itsukushima-jinja Shrine, only a 5-minute walk from the Unesco World Heritage Site itself. The hotel offers public and private hot baths and a free shuttle to/from Miyajima Ferry Terminal. Free Wi-Fi is provided at the lobby.
+    Japanese-style hotel Jukeiso is a 10-minute walk from Hokoku Shrine and Goju-no-To Pagoda. It's a 14-minute walk from Momijidani Park, and a 19-minute walk from the Miyajima Ropeway at Momijidani Station.
+    Guests can unwind in a public indoor bath, which is available 24 hours, while an outdoor bath for private use offers views of Itsukushima-jinja Shrine. Jukeiso serves a Japanese breakfast and dinner at its restaurant.
+    Besides amazing nature views, comfortable rooms come with a flat-screen TV, a mini-fridge and an en suite bathroom. Yukata robes and green tea are provided. Guests sleep in Japanese futon bedding on the tatami (woven mat) floor.
+
+    
+
+    9.3Booking.com
+  + [](https://www.booking.com/hotel/jp/mizuhasou.html?aid=371183)
+
+    [Mizuhasou](https://www.booking.com/hotel/jp/mizuhasou.html?aid=371183)
+
+    Budget-friendly
+
+    Located right in front of Miyajima Aquarium and a 5-minute walk from Itsukushima Shrine's exit, Mizuhasou offers accommodations in a modern yet traditional d?cor. Free Wi-Fi is available at the entire building. Miyajima Ferry Terminal is a 15-minute walk away.
+    The air-conditioned rooms feature a seating area, a flat-screen TV and a fridge. Rooms include a private toilet but bathrooms are shared. Japanese Yukata robes and room wear are provided for all guests, and you can choose to stay in either Japanese or Western-style rooms.
+    Mizuhasou Inn is a 10-minute walk from Momijidani Park and a 15-minute walk from Momijidani Ropeway Station.
+    Traditional multi-course meals are served for dinner and a Japanese set menu for breakfast. Japanese-style hotel Mizuhasou specialises in fresh seafood and exquisitely prepared local seasonal dishes. Meals are served at the dining room.
+
+    
+
+    9.3Booking.com
+  + [](https://www.booking.com/hotel/jp/miyajima-grand-arimoto.html?aid=371183)
+
+    [Miyajima Grand Hotel Arimoto](https://www.booking.com/hotel/jp/miyajima-grand-arimoto.html?aid=371183)
+
+    Luxury
+
+    A 3-minute stroll from Itsukushima Shrine, Miyajima Grand Hotel Arimoto boasts an outdoor hot spring bath. It offers luxurious Japanese-style and Western rooms and a free shuttle from Miyajima Pier. Free Wi-Fi is available in public areas.
+    Spacious rooms feature either traditional futon bedding on a tatami (woven mat) floor, or carpeting and twin beds. All feature a minimalist interior in neutral colours, with a Japanese-style as well as a Western seating area and an LCD TV.
+    Guests can unwind in a soothing artificial hot spring, which is separate for men and women. Arimoto Grand Hotel houses a souvenir shop, drinks vending machines and limited free parking.
+    Authentic Japanese cuisine featuring fresh seafood is served at restaurant Shioji in a stylish contemporary setting, and the traditional Japanese-style saloon. There is a free coffee lounge on the front lobby floor.
+    Miyajima Grand Hotel Arimoto is less than a 5-minute walk from the beautiful Pagoda Goju-no-To and historical Senjokaku Hall. The Miyajima Ferry Terminal is a 10-minute walk away.
+
+    
+
+    9.2Booking.com
+  + [](https://www.booking.com/hotel/jp/iwaso.html?aid=371183)
+
+    [Iwaso](https://www.booking.com/hotel/jp/iwaso.html?aid=371183)
+
+    Luxury
+
+    Located in the World Heritage Miyajima Island, Iwaso features Japanese-style accommodations with beautiful surrounding views. Guests can relax in the indoor and outdoor hot-spring baths and request for massages. A free shuttle is available from Miyajima Ferry Terminal, which is also a 5-minute walk away.
+    The air-conditioned rooms feature tatami (woven-straw) floors and Japanese futon bedding. Rooms in the Annex include a private bathroom with a bath and toilet, while rooms in the historical Main Building and Cottage Annex have shared bathrooms and toilets.
+    Guests can purchase local gifts at the souvenir shop and enjoy singing at the karaoke room. Photocopying and luggage storage services are available at the 24-hour front desk. A computer with internet is provided in the lobby for an extra charge.
+    A traditional multi-course dinner featuring seafood and local ingredients and a Japanese breakfast are served at the restaurant.
+    Iwaso Inn is a 5-minute walk from Itsukushima Shrine and Momijidani Park. Miyajima Aquarium is a 10-minute walk away.
+
+    
+
+    9.2Booking.com
+  + [](https://www.booking.com/hotel/jp/hotel-miyajima-besso.html?aid=371183)
+
+    [Hotel Miyajima Villa](https://www.booking.com/hotel/jp/hotel-miyajima-besso.html?aid=371183)
+
+    Luxury
+
+    Located in Miyajima, 2.3 km from Tsutsumigaura Beach, Hotel Miyajima Villa provides accommodation with a garden, free private parking, a restaurant and a bar. This 5-star hotel offers luggage storage space. Providing free WiFi throughout the property, the non-smoking hotel features a hot spring bath.
+    The hotel will provide guests with air-conditioned rooms offering a desk, a kettle, a fridge, a safety deposit box, a flat-screen TV and a private bathroom with a bidet.
+    Hotel Miyajima Villa offers an Italian or Asian breakfast.
+    Popular points of interest near the accommodation include Five Storey Pagoda, Itsukushima Shrine and Daisho-in Temple. Iwakuni Kintaikyo Airport is 28 km away.
+
+    
+
+    9.2Booking.com
+
+  Show More
+
+  [See more on Booking.com](https://www.booking.com/searchresults.en.html?city=-236847&aid=371183&no_rooms=1&group_adults=2)

@@ -1,0 +1,406 @@
+---
+url: https://www.japan-guide.com/e/e4910_koyasan_2day.html
+title: Mount Koya (Koyasan) Suggested Itineraries
+description: Suggested travel itinerary for a 2-day trip to Mount Koya.
+keywords: koyasan, mount, koya, suggested, itinerary, itineraries, , walk, model, route, tour
+content_type: regional_attraction
+word_count: 1642
+char_count: 11438
+crawled_at: 2025-12-22 14:06:11
+---
+
+duration
+
+2 days
+
+budget
+
+12,000 - 20,000 yen/person
+
+pace
+
+Average pace
+
+The following is a suggested 2-day itinerary for average-paced travelers which takes you through [Koyasan](e4900.html), the center of Shingon [Buddhism](e2055.html). Parts of the route, namely the Women Pilgrims Course, follow a nature trail, and proper walking shoes are recommended, especially during or after wet weather.
+
+### Day 1: Okunoin and Temple Lodging
+
+Start
+
+Start at **Koyasan Station**
+
+**Bus**
+
+15 minutes
+
+Karukayado-mae bus stop
+
+**Walk**
+
+5 minutes
+
+Okunoin Temple
+
+Temple where Kobo Daishi is enshrined
+2-3 hours
+
+[Okunoin](e4901.html) is the site of the mausoleum of Kobo Daishi, founder of [Shingon Buddhism](e2055.html) and an important figure in the religious history of Japan. The grounds contain a huge graveyard of those who want to be close to Kobo Daishi.
+
+**Walk**
+
+20 minutes
+
+Head to your [temple lodging](e4905.html) in the town by bus or on foot
+
+Temple Lodging
+
+Overnight at a Buddhist temple
+
+Stay overnight at a [temple lodging](e4905.html) (shukubo) and participate in the temple activities like meditation. Facilities at a [shukubo](e2025_temple_lodgings.html) tend to be simple, and meals served are vegetarian monks' cuisine (shojin ryori).
+
+Finish
+
+### Day 2: Temples and a Pilgrimage Trail
+
+Start
+
+Check out of the [temple lodging](e4905.html) after breakfast
+
+**Walk**
+
+Kongobuji Temple
+
+Head monastery of the Shingon sect
+45-60 minutes
+
+[Kongobuji Temple](e4903.html) is a large [temple](e2058.html) where visitors can see exquisitely painted [fusuma doors](e2007.html) from the 16th and 17th centuries. The [rock garden](e2099.html) in the back of the temple is one of Japan's largest.
+
+**Walk**
+
+5 minutes
+
+Garan
+
+Koyasan's central temple complex
+45 minutes
+
+The [Garan](e4902.html) consists of several buildings, of which the two most prominent ones are the Kondo Hall and the Konpon Daito Pagoda. Of note is also the Chumon Gate which was reconstructed recently.
+
+**Walk**
+
+10 minutes
+
+Daimon Gate
+
+Large vermilion gate
+5 minutes
+
+A large, two-story tall gate that marks the traditional entrance to [Koyasan](e4900.html).
+
+Women Pilgrims Course
+
+Hiking trail that was traditionally for women
+60 minutes
+
+The [Women Pilgrims Course](e4909.html) leads around the town of [Koyasan](e4900.html) and was built for women who were banned from entering the town before 1872. We walk the section from the Daimon Gate to the only surviving Nyonindo Hall, halls built for female pilgrims.
+
+Nyonindo bus stop
+
+**Bus**
+
+5 minutes
+
+Finish
+
+Koyasan Station
+
+
+Top rated on Mount Koya
+
+[powered by](https://www.booking.com?aid=371183)
+
+Budget:
+
+AllLow  $Mid  $$High  $$$
+
+* + [](https://www.booking.com/hotel/jp/hachi-hachi-koyacho-itogun-wakayama.html?aid=371183)
+
+    [Guest House hachi hachi](https://www.booking.com/hotel/jp/hachi-hachi-koyacho-itogun-wakayama.html?aid=371183)
+
+    Budget-friendly
+
+    Guest House hachi hachi is situated in Koyasan, 37 km from Kishi Station, 43 km from Matsushita Park, and 45 km from Wanpaku Park. The 1-star guest house has air-conditioned rooms with a shared bathroom and free WiFi. Subaru Hall is 48 km away and Naka Family Residence is 50 km from the guest house.
+    At the guest house, each unit includes a desk. The units are equipped with heating facilities.
+    A bicycle rental service is available at the guest house.
+    Kii Fudoki No Oka Museum of Archaeology and Folklore is 46 km from Guest House hachi hachi, while Jigenin Temple is 47 km from the property. Kansai International Airport is 60 km away.
+
+    
+
+    9.4Booking.com
+  + [](https://www.booking.com/hotel/jp/koyasasan-guesthouse-kokuu.html?aid=371183)
+
+    [Koyasan Guesthouse Kokuu](https://www.booking.com/hotel/jp/koyasasan-guesthouse-kokuu.html?aid=371183)
+
+    Budget-friendly
+
+    Koyasan Guesthouse Kokuu, a property with a bar, is located in Koyasan, 40 km from Kishi Station, 45 km from Subaru Hall, as well as 47 km from Matsushita Park. With a terrace, the 1-star guest house has air-conditioned rooms with free WiFi, each with a shared bathroom. Free private parking is available and the guest house also provides bike hire for guests who want to explore the surrounding area.
+    For added convenience, the property can provide towels and linens for a supplement.
+    A continental breakfast is available at the guest house.
+    Guests at Koyasan Guesthouse Kokuu will be able to enjoy activities in and around Koyasan, like hiking.
+    Kansai International Airport is 63 km away.
+
+    
+
+    9.4Booking.com
+  + [](https://www.booking.com/hotel/jp/suzumenokakurenbo-yi-du-jun-gao-ye-ting-gao-ye-shan.html?aid=371183)
+
+    [Guest House Suzumeno Kakurembo](https://www.booking.com/hotel/jp/suzumenokakurenbo-yi-du-jun-gao-ye-ting-gao-ye-shan.html?aid=371183)
+
+    Budget-friendly
+
+    Featuring 2-star accommodation, Guest House Suzumeno Kakurembo is set in Koyasan, 37 km from Kishi Station and 44 km from Matsushita Park. Among the facilities of this property are a restaurant, full-day security and luggage storage space, along with free WiFi. The guest house features family rooms.
+    At the guest house, some units are soundproof.
+    Wanpaku Park is 46 km from the guest house, while Kii Fudoki No Oka Museum of Archaeology and Folklore is 46 km away. Kansai International Airport is 60 km from the property.
+
+    
+
+    9.1Booking.com
+  + [](https://www.booking.com/hotel/jp/yochiin.html?aid=371183)
+
+    [Koyasan Shukubo Yochiin](https://www.booking.com/hotel/jp/yochiin.html?aid=371183)
+
+    Mid-range
+
+    Located in the sacred Mount Koya area, 高野山 宿坊 桜池院 -Koyasan Shukubo Yochiin- is a historic temple and an accommodation for visitors. Just to the left of entering sanmon gate, there is a stone garden created by the famous Mirei Shigemori and designated a natural monument by the Japanese government.
+    Guests can experience temple activities such as meditation, sutra copying and tracing of Buddhist deities at an additional charge, if reserved in advance. Guests can also participate in morning prayers, which do not require reservation.
+    All rooms at 高野山 宿坊 桜池院 -Koyasan Shukubo Yochiin- are Japanese-style and feature tatami (woven-straw) floors. Traditional futon bedding, a TV, fan and heater are provided. Bathroom and toilet are shared with other guests. The spacious public baths feature a hot tub. On-site luggage storage is available.
+    Guests with reservations that include a meal can enjoy delicately prepared homemade vegetarian meals featuring seasonal dishes. Convenience stores are located within a 3-minute walking distance from the property.
+    It is a 10-minute walk from the famous Kongobuji Temple. Guests can visit the Buddhist temple, Danjogaran, just a 3-minute walk away.
+
+    
+
+    9.1Booking.com
+  + [](https://www.booking.com/hotel/jp/pu-xian-yuan.html?aid=371183)
+
+    [Koyasan Shukubo Fugenin](https://www.booking.com/hotel/jp/pu-xian-yuan.html?aid=371183)
+
+    Mid-range
+
+    Set in Koyasan and only 38 km from Kishi Station, Koyasan Shukubo Fugenin offers accommodation with garden views, free WiFi and free private parking. This 3-star ryokan offers luggage storage space and bicycle parking. Matsushita Park is 45 km from the ryokan and Wanpaku Park is 47 km away.
+    The ryokan provides certain units that feature inner courtyard views, and the units are fitted with a shared bathroom and a tatami. The units are equipped with heating facilities.
+    The ryokan offers an Asian or vegetarian breakfast.
+    Guests can also relax in the garden.
+    Kii Fudoki No Oka Museum of Archaeology and Folklore is 47 km from Koyasan Shukubo Fugenin, while Subaru Hall is 47 km away. Kansai International Airport is 61 km from the property.
+
+    
+
+    9.1Booking.com
+  + [](https://www.booking.com/hotel/jp/jokiin.html?aid=371183)
+
+    [Koyasan Shukubo Jokiin](https://www.booking.com/hotel/jp/jokiin.html?aid=371183)
+
+    Mid-range
+
+    Located in Koyasan, a UNESCO World Heritage Site, 高野山 宿坊 常喜院 -Koyasan Shukubo Jokiin- offers free private parking.
+    All rooms include a flat-screen TV. Certain rooms have a seating area where you can relax. Rooms have a shared bathroom. 高野山 宿坊 常喜院 -Koyasan Shukubo Jokiin- features free WiFi throughout the property.
+    There is luggage storage space at the property. Guests can participate in the morning prayers upon request.
+    The property is a minute's walk from Kongobu-ji Temple. The temple building is also situated nearby.
+
+    
+
+    9.0Booking.com
+  + [](https://www.booking.com/hotel/jp/koyasan-saizenin.html?aid=371183)
+
+    [Koyasan Shukubo Saizenin](https://www.booking.com/hotel/jp/koyasan-saizenin.html?aid=371183)
+
+    Mid-range
+
+    Located in the sacred Koyasan area, Saizenin offers simple accommodation surrounded by mountains and many temples. Originally developed as a lodging for the temples’ pilgrims, it conducts Buddhist services every morning that guests can attend. Nankai Koyasan Train Station is a 15-minute drive away.
+    Fitted with tatami (woven-straw) flooring and traditional futon bedding, each room comes with a flat-screen TV and a seating area. A safety deposit box is also provided.
+    The 高野山 宿坊 西禅院 -Koyasan Shukubo Saizenin- features luggage storage and free parking.
+    Kansai International Airport is 40 km away. Nankai Namba Train Station in Osaka is a 2-hour train ride from the proprety.
+    Healthy vegetarian meals are served in the guest room or in the dining room for dinner and breakfast.
+
+    
+
+    8.9Booking.com
+  + [](https://www.booking.com/hotel/jp/renjejoin.html?aid=371183)
+
+    [Koyasan Sanadabo Rengejoin](https://www.booking.com/hotel/jp/renjejoin.html?aid=371183)
+
+    Luxury
+
+    Offering garden views, Koyasan Sanadabo Rengejoin is an accommodation situated in Koyasan, 39 km from Kishi Station and 45 km from Matsushita Park. With a garden, the 4-star ryokan has air-conditioned rooms with free WiFi. The ryokan features a public bath and luggage storage space.
+    At the ryokan, each unit is fitted with a tatami. There is a private bathroom with bidet in some units, along with bathrobes, slippers and a hair dryer. The units are equipped with heating facilities.
+    The ryokan offers an Asian or vegan breakfast.
+    Subaru Hall is 47 km from Koyasan Sanadabo Rengejoin, while Kii Fudoki No Oka Museum of Archaeology and Folklore is 48 km from the property. Kansai International Airport is 62 km away.
+
+    
+
+    8.8Booking.com
+  + [](https://www.booking.com/hotel/jp/sekishoin.html?aid=371183)
+
+    [Sekishoin](https://www.booking.com/hotel/jp/sekishoin.html?aid=371183)
+
+    Mid-range
+
+    Founded 1100 years ago and located in Mount Koyasan, guests can experience staying in a historical Buddhist temple at Sekishoin Shukubo. Japanese-style rooms are offered. Koyasan Cable Train Station is a 15-minute drive away.
+    All rooms feature tatami (woven-straw) floors and Japanese futon bedding. Some rooms have free Wi-Fi access. A private bathroom is provided in rooms at the New Wing, and rooms in the Main Wing have shared bathrooms and toilets. Heating is available in all rooms.
+    Sekishoin has a beautiful traditional garden and a drink vending machine is on-site. Photocopying and luggage storage is available. Guests can participate in monastic activities during the morning service.
+    Traditional vegetarian cuisines are available for breakfast and dinner. All meals are served at the dining room.
+    Sekishoin is a 10-minute walk from Kongobu-ji Temple and a 15-minute walk from the Tokugawa Family Tomb. Guests can visit various other temples in the area.
+
+    
+
+    8.2Booking.com
+  + [](https://www.booking.com/hotel/jp/sainanin-koya.html?aid=371183)
+
+    [Koyasan Shukubo Sainanin](https://www.booking.com/hotel/jp/sainanin-koya.html?aid=371183)
+
+    Budget-friendly
+
+    Located in Koyasan, Koyasan Shukubo Sainanin is a historic temple approximately 1100 years old and located 300 metres from Daimon Gate.
+    All rooms features tatami (woven-straw) flooring. The property has a hot spring bath with free toiletries.
+    Guests can attend Buddhist morning services.
+    There is a coffee shop on site.
+    Kansai International Airport is 90 minutes by car from Koyasan Shukubo Sainanin.
+
+    
+
+    8.1Booking.com
+
+  Show More
+
+  [See more on Booking.com](https://www.booking.com/searchresults.en.html?city=-234534&aid=371183&no_rooms=1&group_adults=2)
+
+[## The Basics about Overtourism in Japan
+
+Travel News
+
+](/link.html?/e/e4910_koyasan_2day.html+report+topstory+255+338+0+/news/overtourism.html)
+
+[## A journey from the sea to the mountains
+
+Sponsored Story
+
+](/link.html?/e/e4910_koyasan_2day.html+report+yutakakotsu+1+3+0+/ad/wakayama-coast-to-mountain/)
+
+[## Tokyo to Osaka, But Not the Usual Way
+
+Sponsored Story
+
+](/link.html?/e/e4910_koyasan_2day.html+report+jrkintetsu+1+11+0+/ad/jr-kintetsu-pearl-route/)
+
+[## Experiencing Koyasan with an overnight temple stay
+
+Sponsored Story
+
+](/link.html?/e/e4910_koyasan_2day.html+report+nankai+1+5+0+/ad/koyasan/)
+
+[## Our 2025 Travel Highlights
+
+From Our Staff
+
+](/link.html?/e/e4910_koyasan_2day.html+report+topstory+300+391+0+/news/0061.html)
+
+[## Traditional experiences in Koyasan and Sakai
+
+Sponsored Story
+
+](/link.html?/e/e4910_koyasan_2day.html+report+kansairail+21+49+0+/ad/kansai-by-rail/201020.html)
+
+[## Four spots not to miss on the Boso Peninsula
+
+Sponsored Story
+
+](/link.html?/e/e4910_koyasan_2day.html+report+chiba+5+15+0+/ad/boso-activities/)
+
+[More Stories](/news/koyasan/)
+
+Explore[Mount Koya](/e/e4900.html)
+
+:   + [Temple Lodging](/e/e4905.html)
+    + [Okunoin Temple](/e/e4901.html)
+    + [Kongobuji Temple](/e/e4903.html)
+    + [Garan](/e/e4902.html)
+    + [Reihokan Museum](/e/e4906.html)
+    + [Pilgrimage Trails](/e/e4909.html)
+    + [Daishi Kyokai](/e/e4908.html)
+    + [Tokugawa Mausoleum](/e/e4907.html)
+
+Plan Your Trip
+:   * [Suggested Itinerary](/e/e4910_koyasan_2day.html)
+
+Access
+:   * [Access and Orientation](/e/e4904.html)
+    * [Koyasan World Heritage Ticket](/e/e2358_012.html)
+
+[## The Basics about Overtourism in Japan
+
+Travel News
+
+](/link.html?/e/e4910_koyasan_2day.html+report+topstory+255+338+0+/news/overtourism.html)
+
+[## A journey from the sea to the mountains
+
+Sponsored Story
+
+](/link.html?/e/e4910_koyasan_2day.html+report+yutakakotsu+1+3+0+/ad/wakayama-coast-to-mountain/)
+
+[## Tokyo to Osaka, But Not the Usual Way
+
+Sponsored Story
+
+](/link.html?/e/e4910_koyasan_2day.html+report+jrkintetsu+1+11+0+/ad/jr-kintetsu-pearl-route/)
+
+[## Experiencing Koyasan with an overnight temple stay
+
+Sponsored Story
+
+](/link.html?/e/e4910_koyasan_2day.html+report+nankai+1+5+0+/ad/koyasan/)
+
+[## Our 2025 Travel Highlights
+
+From Our Staff
+
+](/link.html?/e/e4910_koyasan_2day.html+report+topstory+300+391+0+/news/0061.html)
+
+[## Traditional experiences in Koyasan and Sakai
+
+Sponsored Story
+
+](/link.html?/e/e4910_koyasan_2day.html+report+kansairail+21+49+0+/ad/kansai-by-rail/201020.html)
+
+[## Four spots not to miss on the Boso Peninsula
+
+Sponsored Story
+
+](/link.html?/e/e4910_koyasan_2day.html+report+chiba+5+15+0+/ad/boso-activities/)
+
+[More Stories](/news/koyasan/)
+
+[## Koyasan World Heritage ticket
+
+September 2025
+
+2replies](/forum/quereadisplay.html?0+184600)
+[## Wakayama - Koyasan & Nachi Waterfall
+
+August 2025
+
+2replies](/forum/quereadisplay.html?0+184263)
+[## Koyasan World Heritage Ticket from Kyoto
+
+April 2025
+
+3replies](/forum/quereadisplay.html?0+183650)
+[## Choishi Michi Detours March 2025
+
+March 2025
+
+3replies](/forum/quereadisplay.html?0+183448)
+[## English Friendly Shuboku Lodging
+
+February 2025
+
+4replies](/forum/quereadisplay.html?0+183315)
