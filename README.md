@@ -1,5 +1,9 @@
 🗾 Japan Travel AI Agent
-A sophisticated RAG (Retrieval-Augmented Generation) and Real-time Search travel planner. It blends a deep local knowledge base with live Google Maps data to generate optimized, data-backed Japanese itineraries.
+A sophisticated RAG (Retrieval-Augmented Generation) and Real-time Search travel planner. 
+It blends a deep local knowledge base with live Google Maps data to generate optimized, data-backed Japanese itineraries.
+
+
+files:
 
 app.py: Streamlit UI & Session management.
 
@@ -16,5 +20,19 @@ client.py: LLM API communication layer.
 chat_service.py: General AI consultation and chat.
 
 scraw.ipynb: Web crawler for building the static knowledge base.
+
+
+🛠️ Tech Stack
+
+Frontend: StreamlitVector
+
+DB: ChromaDB
+
+Embedding: paraphrase-multilingual-MiniLM-L12-v2
+
+APIs: Google Places V1, LLM (GPT/Llama)
+
+Mapping: Folium / Streamlit-Folium
+
 
 to run: streamlit run app.py
