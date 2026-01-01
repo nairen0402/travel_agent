@@ -2,7 +2,7 @@
 
 from fsm.state import determine_state, FSMResult
 from services.search_service import llm_search
-
+import re
 
 def run_pipeline(
     location: str,

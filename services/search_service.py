@@ -6,6 +6,12 @@ from llm.client import call_llm
 from fsm.state import FSMResult
 from rag import query_rag_with_filter
 import time
+import tiktoken
+def count_tokens(text):
+    # 使用 cl100k_base 編碼（適用於 GPT-4 等，估算 Llama/Qwen 也很好用）
+    encoding = tiktoken.get_encoding("cl100k_base")
+    tokens = encoding.encode(text)
+    return len(tokens)
 
 def llm_search(
     location: str,
@@ -48,10 +54,14 @@ def llm_search(
         interests_info = f"\n- 興趣愛好：{', '.join(interests)}"
 
     # ========== 第一次 LLM：生成帶標記的回答 + RAG 檢索問題 ==========
-    first_prompt = f"""你是一位日本旅遊資訊助理。回答以下旅遊規劃需求，但在需要查詢實際資料的地方使用特殊標記
+    first_prompt = f"""你是一位日本旅遊資訊助理。
+    【絕對指令】：
+1. 無論參考資料是什麼語言，你必須「全程使用繁體中文」回答。
+2. 只有景點名稱、店名可以保留日文括號備註（例如：清水寺 (Kiyomizu-dera)），其餘敘述嚴禁使用日文或英文。
+回答以下旅遊規劃需求，但在需要查詢實際資料的地方使用特殊標記
 可用函數標記格式：
 - [CALL:search_places:關鍵字] - 搜尋地點
-
+多使用這個標記來取得最新資訊，並在回答中插入地點名稱列表。
 使用者的旅遊條件如下：
 - 目的地：{location}
 - 停留天數：{days} 天
@@ -59,15 +69,15 @@ def llm_search(
 - 預算：{budget_text}{date_info}{accommodation_info}{interests_info}
 - 旅遊偏好與需求：{extra_req}
 
-請根據以上資訊，提供詳細且實用的旅遊建議，包含：
+請根據以上資訊，提供實用的旅遊建議，包含：
 
-1. **行程規劃**：逐日安排（Day 1 到 Day {days}），包含具體景點和時間安排
+1. **行程規劃**：逐日安排（Day 1 到 Day {days}），包含具體景點和時間安排 
 2. **住宿建議**：根據預算和偏好推薦適合的住宿區域和類型
 3. **交通指南**：機場往返、市區交通方式和交通卡建議
 4. **美食推薦**：必吃料理和餐廳推薦
 5. **景點介紹**：主要景點特色和遊覽時間
 6. **預算分配**：大致的花費估算（機票、住宿、餐飲、交通、門票等）
-
+等等會根據這裡的資訊以及函式產生的結果來回答，所以為了讓prompt length不要太大，請不要到太詳細，簡短扼要著重在哪裡需要函數呼叫來取得實際數據。
 請用友善、專業的語氣回答，讓使用者感受到貼心的服務。
 特別注意要根據使用者的興趣和偏好來客製化建議。
 
@@ -145,7 +155,7 @@ RAG 檢索問題應該是一個簡潔的問句，用來從旅遊知識庫中檢�
             try:
                 if func_type == "search_places":
                     print(f"{idx}. 🔧 搜尋: {params}")
-                    result = online.search_places_python(params)
+                    result = online.search_places_python(params, result_count=3)
                     
                     if result and len(result) > 0:
                         detailed_places = []
@@ -191,36 +201,33 @@ RAG 檢索問題應該是一個簡潔的問句，用來從旅遊知識庫中檢�
 
     print(f"{'='*60}\n【第二次 LLM 呼叫】整合所有數據生成最終答案...\n")
     
-    final_prompt = f"""你是一位日本旅遊資訊助理。回答以下旅遊規劃需求，整合 RAG 檢索內容和工具查詢結果，並生成最終的詳細旅遊建議。
-    
+    final_prompt = f"""你是一位專業的日本旅遊規劃師。請根據以下資訊，生成一份精美、詳實且專業的旅遊建議。
+
+【重要格式要求】：
+1. **隱藏技術過程**：嚴禁在回答中提及「根據 RAG 檢索」、「工具查詢結果顯示」、「模型思考」或任何關於資料獲取過程的文字。請直接以專業顧問的口吻給出建議。
+2. **行程表格化**：請務必將「1. 行程規劃」的部分整理成一個清晰的 **Markdown 表格**，欄位必須包含：天數/時間、景點/活動名稱、內容詳述、交通方式。
+3. **天數過長，簡化表格** :停留若超過五天，把所有行程合成一個大表格，縱軸是時間，橫軸是天數，內容是景點/活動名稱與交通方式。
 使用者的旅遊條件如下：
 - 目的地：{location}
 - 停留天數：{days} 天
 - 旅遊人數：{people} 人
-- 預算：{budget_text}{date_info}{accommodation_info}{interests_info}
+- 預算：{budget_text}{date_info}{accommodation_info}{interests_info} (找出最接近預算的行程)
 - 旅遊偏好與需求：{extra_req}
 
-請根據以上資訊，提供詳細且實用的旅遊建議，包含：
+請整合以下數據生成最終回答：
+- 知識庫參考：{context}
+- 即時工具數據（請優先引用此處的具體景點與餐廳名）：{chr(10).join(tool_results_summary) if tool_results_summary else '無工具查詢結果'}
+- 原始草稿參考：{processed_response}
 
-1. **行程規劃**：逐日安排（Day 1 到 Day {days}），包含具體景點和時間安排
-2. **住宿建議**：根據預算和偏好推薦適合的住宿區域和類型
-3. **交通指南**：機場往返、市區交通方式和交通卡建議
-4. **美食推薦**：必吃料理和餐廳推薦
-5. **景點介紹**：主要景點特色和遊覽時間
-6. **預算分配**：大致的花費估算（機票、住宿、餐飲、交通、門票等）
+回答應包含：
+1. **行程規劃**（請以表格呈現）
+2. **住宿建議**（推薦具體區域與 Google 推薦的飯店）
+3. **交通指南**（包含 N'EX、Suica 等實用資訊）
+4. **美食與景點詳細介紹**（引用工具查詢到的具體數據，如評分與特色）
+5. **預算分配估算**（以條列式呈現）
 
-RAG 檢索到的知識庫內容(如果有用到請加上對應的url)：
-{context}
-
-工具查詢結果，可以盡量引用的詳細一點：
-{chr(10).join(tool_results_summary) if tool_results_summary else '無工具查詢結果'}
-
-回答草稿：
-{processed_response}
-
-請生成最終回答（整合 RAG 檢索內容和工具查詢結果，保留具體數據，使用自然流暢的語言，涵蓋機票、住宿、景點、美食、行程規劃）："""
-    print(final_prompt + "\n")
-    print("final_prompt length:", len(final_prompt))
+請生成最終回答："""
+    print("final_prompt token length:", count_tokens(final_prompt))
     final_response = call_llm(final_prompt)
     print(f"最終回答:\n{final_response}\n")
     return final_response

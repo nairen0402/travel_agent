@@ -63,14 +63,14 @@ def clean_content(text):
 
 def index_data(md_folder):
     """建立索引 - 新增詳細進度追蹤"""
-    CHUNK_SIZE = 500
+    CHUNK_SIZE = 300
     OVERLAP = 50
     
     # 檢查是否需要重建索引
     try:
         collection = chroma_client.get_collection("docs")
         existing_count = collection.count()
-        print(f"⚠️  發現已存在的索引（{existing_count} 個 chunks）")
+        print(f"發現已存在的索引（{existing_count} 個 chunks）")
         user_input = "n"
         if user_input != 'y':
             print("保持現有索引，結束程序。")
@@ -166,7 +166,7 @@ def index_data(md_folder):
     print(f"  - 資料庫大小: {collection.count()} 個向量")
     
     if failed_files:
-        print(f"\n⚠️  失敗文件 ({len(failed_files)}):")
+        print(f"\n失敗文件 ({len(failed_files)}):")
         for fn, reason in failed_files[:5]:  # 只顯示前5個
             print(f"   - {fn}: {reason}")
         if len(failed_files) > 5:
@@ -184,7 +184,7 @@ def query_rag_with_filter(location, question):
     
     results = collection.query(
         query_embeddings=[query_emb],
-        n_results=7, 
+        n_results=5, 
         where_document={"$contains": location} 
     )
 
@@ -222,4 +222,4 @@ if __name__ == "__main__":
     loc = "Osaka"
     q = "大阪有哪些預算低的景點或省錢交通工具？"
     result = query_rag_with_filter(loc, q)
-    print(result[:500] + "..." if len(result) > 500 else result)
+    print(len(result))

@@ -13,7 +13,7 @@ HEADERS = {
 }
 
 
-def call_llm(prompt: str, model: str = "gemma3:4b") -> str: #change llm
+def call_llm(prompt: str, model: str = "gpt-oss:20b") -> str: #change llm
     url = f"{BASE_URL}/api/generate"
 
     payload = {
@@ -29,11 +29,6 @@ def call_llm(prompt: str, model: str = "gemma3:4b") -> str: #change llm
             json=payload,
             timeout=180 # 建議設定具體秒數，避免無限等待
         )
-        print(resp.text)
-        # 如果失敗，印出 status_code 和 內容
-        if resp.status_code != 200:
-            print(f"❌ API 錯誤狀態碼: {resp.status_code}")
-            print(f"❌ 錯誤內容: {resp.text}")
         resp.raise_for_status()
 
     except ReadTimeout:
