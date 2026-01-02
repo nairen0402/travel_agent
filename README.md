@@ -39,13 +39,13 @@ to run: streamlit run app.py
 
 
 建立虛擬環境：
-'''bash
+```bash
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
-'''
+```
 
 安裝依賴庫：
-'''bash
+```bash
 pip install streamlit requests chromadb sentence-transformers tqdm tiktoken
-'''
+```
