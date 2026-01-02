@@ -9,7 +9,7 @@ import time
 
 # --- 配置區 ---
 BASE_URL = "https://api-gateway.netdb.csie.ncku.edu.tw"
-API_KEY = "310a74d867f37d99be699d13858837f61ab69457c6cefabb79d99d24dfade99b"
+API_KEY = ""
 MODEL = "gpt-oss:120b"
 
 # 初始化本地 Embedding
