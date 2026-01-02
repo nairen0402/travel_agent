@@ -22,6 +22,7 @@ chat_service.py: General AI consultation and chat.
 scraw.ipynb: Web crawler for building the static knowledge base.
 
 # structure:
+```bash
 project/
 ├── app.py                 # Streamlit UI 主程式
 ├── online.py              # Google Places API 工具
@@ -32,7 +33,7 @@ project/
     ├── chat_service.py    # 聊天功能邏輯
     ├── orchestrator.py    # 系統流程控制 (Pipeline)
     └── search_service.py  # 整合 RAG 與工具的搜尋邏輯
-
+```
 # Tech Stack
 Frontend: StreamlitVector
 
