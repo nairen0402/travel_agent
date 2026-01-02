@@ -937,7 +937,7 @@ with tab4:
         # 定義匯率獲取函數 (內建 API 呼叫)
         def get_twd_jpy_rate():
             try:
-                API_KEY = "a99af38c680c4cacbae3753952018062"
+                API_KEY = ""
                 url = "https://api.currencyfreaks.com/latest"
                 params = {"apikey": API_KEY, "symbols": "TWD,JPY"}
                 res = requests.get(url, params=params, timeout=10)
