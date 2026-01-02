@@ -1,9 +1,9 @@
-🗾 Japan Travel AI Agent
+# Japan Travel AI Agent
 A sophisticated RAG (Retrieval-Augmented Generation) and Real-time Search travel planner. 
 It blends a deep local knowledge base with live Google Maps data to generate optimized, data-backed Japanese itineraries.
 
 
-files:
+# files:
 
 app.py: Streamlit UI & Session management.
 
@@ -21,9 +21,19 @@ chat_service.py: General AI consultation and chat.
 
 scraw.ipynb: Web crawler for building the static knowledge base.
 
+# structure:
+project/
+├── app.py                 # Streamlit UI 主程式
+├── online.py              # Google Places API 工具
+├── rag.py                 # RAG 檢索系統 (Vector DB)
+├── llm/
+│   └── client.py          # LLM API 呼叫介面
+└── services/
+    ├── chat_service.py    # 聊天功能邏輯
+    ├── orchestrator.py    # 系統流程控制 (Pipeline)
+    └── search_service.py  # 整合 RAG 與工具的搜尋邏輯
 
-🛠️ Tech Stack
-
+# Tech Stack
 Frontend: StreamlitVector
 
 DB: ChromaDB
@@ -34,18 +44,17 @@ APIs: Google Places V1, LLM (GPT/Llama)
 
 Mapping: Folium / Streamlit-Folium
 
-
 to run: streamlit run app.py
 
-
-建立虛擬環境：
+## Create a Virtual Environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
 ```
 
-安裝依賴庫：
+## Install Dependencies:
 ```bash
 pip install streamlit requests chromadb sentence-transformers tqdm tiktoken
 ```
+
