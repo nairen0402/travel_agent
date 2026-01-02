@@ -57,4 +57,13 @@ venv\Scripts\activate     # Windows
 ```bash
 pip install streamlit requests chromadb sentence-transformers tqdm tiktoken
 ```
-
+# Execution Flow
+## Step 1: Initialize Knowledge Base (RAG Preprocessing)
+build the local vector database
+```bash
+python rag.py
+```
+## Step 2: Run the Application
+```bash
+streamlit run app.py
+```
