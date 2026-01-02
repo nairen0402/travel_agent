@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "AIzaSyBbMkKmWfqt4BzXVMHobt_kMKmeNdeY6lY"
+API_KEY = ""
 
 def search_places_python(query, result_count=5):
     url = "https://places.googleapis.com/v1/places:searchText"
